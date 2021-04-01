@@ -1,7 +1,7 @@
 <div class="emojidex-palette-wrapper">
   {{#if searchEnabled}}
     <div class="emojidex-search-container">
-      {{input type="search" value=searchTerm class="emojidex-searchbox" placeholder=searchPlaceholder key-up=(action "searchEmojis")}}
+      {{input class="emojidex-searchbox form-control" type="text" value=searchTerm placeholder=searchPlaceholder}}
     </div>
   {{/if}}
   {{emoji-list
@@ -10,8 +10,9 @@
       listType=currentListType
       categories=allowedCategories
       categoryNames=categoryNames
-      emojiList=emojiList 
-      selectEmoji=(action "selectEmoji")}}
+      emojiList=emojiList
+      selectEmoji=(action "selectEmoji")
+  }}
   {{#unless hideCategories}}
     <div class="emojidex-horizontal-ruler"></div>
     <div class="emojidex-category-holder emojidex-bottom-component">

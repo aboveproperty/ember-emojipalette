@@ -1,4 +1,4 @@
-export const emojidata = {
+export default {
   "people": [
     {
       "emoji": "😀",
@@ -14,13 +14,7 @@ export const emojidata = {
       "category": "Smileys & Emotion",
       "subcategory": "face-smiling",
       "codepoints": "1F603",
-      "keyTerms": [
-        "face",
-        "grinning face with big eyes",
-        "mouth",
-        "open",
-        "smile"
-      ]
+      "keyTerms": ["face", "grinning face with big eyes", "mouth", "open", "smile"]
     },
     {
       "emoji": "😄",
@@ -28,14 +22,7 @@ export const emojidata = {
       "category": "Smileys & Emotion",
       "subcategory": "face-smiling",
       "codepoints": "1F604",
-      "keyTerms": [
-        "eye",
-        "face",
-        "grinning face with smiling eyes",
-        "mouth",
-        "open",
-        "smile"
-      ]
+      "keyTerms": ["eye", "face", "grinning face with smiling eyes", "mouth", "open", "smile"]
     },
     {
       "emoji": "😁",
@@ -43,13 +30,7 @@ export const emojidata = {
       "category": "Smileys & Emotion",
       "subcategory": "face-smiling",
       "codepoints": "1F601",
-      "keyTerms": [
-        "beaming face with smiling eyes",
-        "eye",
-        "face",
-        "grin",
-        "smile"
-      ]
+      "keyTerms": ["beaming face with smiling eyes", "eye", "face", "grin", "smile"]
     },
     {
       "emoji": "😆",
@@ -57,14 +38,7 @@ export const emojidata = {
       "category": "Smileys & Emotion",
       "subcategory": "face-smiling",
       "codepoints": "1F606",
-      "keyTerms": [
-        "face",
-        "grinning squinting face",
-        "laugh",
-        "mouth",
-        "satisfied",
-        "smile"
-      ]
+      "keyTerms": ["face", "grinning squinting face", "laugh", "mouth", "satisfied", "smile"]
     },
     {
       "emoji": "😅",
@@ -72,14 +46,7 @@ export const emojidata = {
       "category": "Smileys & Emotion",
       "subcategory": "face-smiling",
       "codepoints": "1F605",
-      "keyTerms": [
-        "cold",
-        "face",
-        "grinning face with sweat",
-        "open",
-        "smile",
-        "sweat"
-      ]
+      "keyTerms": ["cold", "face", "grinning face with sweat", "open", "smile", "sweat"]
     },
     {
       "emoji": "🤣",
@@ -87,13 +54,7 @@ export const emojidata = {
       "category": "Smileys & Emotion",
       "subcategory": "face-smiling",
       "codepoints": "1F923",
-      "keyTerms": [
-        "face",
-        "floor",
-        "laugh",
-        "rolling",
-        "rolling on the floor laughing"
-      ]
+      "keyTerms": ["face", "floor", "laugh", "rolling", "rolling on the floor laughing"]
     },
     {
       "emoji": "😂",
@@ -133,13 +94,7 @@ export const emojidata = {
       "category": "Smileys & Emotion",
       "subcategory": "face-smiling",
       "codepoints": "1F60A",
-      "keyTerms": [
-        "blush",
-        "eye",
-        "face",
-        "smile",
-        "smiling face with smiling eyes"
-      ]
+      "keyTerms": ["blush", "eye", "face", "smile", "smiling face with smiling eyes"]
     },
     {
       "emoji": "😇",
@@ -147,14 +102,7 @@ export const emojidata = {
       "category": "Smileys & Emotion",
       "subcategory": "face-smiling",
       "codepoints": "1F607",
-      "keyTerms": [
-        "angel",
-        "face",
-        "fantasy",
-        "halo",
-        "innocent",
-        "smiling face with halo"
-      ]
+      "keyTerms": ["angel", "face", "fantasy", "halo", "innocent", "smiling face with halo"]
     },
     {
       "emoji": "🥰",
@@ -162,13 +110,7 @@ export const emojidata = {
       "category": "Smileys & Emotion",
       "subcategory": "face-affection",
       "codepoints": "1F970",
-      "keyTerms": [
-        "adore",
-        "crush",
-        "hearts",
-        "in love",
-        "smiling face with hearts"
-      ]
+      "keyTerms": ["adore", "crush", "hearts", "in love", "smiling face with hearts"]
     },
     {
       "emoji": "😍",
@@ -176,13 +118,7 @@ export const emojidata = {
       "category": "Smileys & Emotion",
       "subcategory": "face-affection",
       "codepoints": "1F60D",
-      "keyTerms": [
-        "eye",
-        "face",
-        "love",
-        "smile",
-        "smiling face with heart-eyes"
-      ]
+      "keyTerms": ["eye", "face", "love", "smile", "smiling face with heart-eyes"]
     },
     {
       "emoji": "🤩",
@@ -190,14 +126,7 @@ export const emojidata = {
       "category": "Smileys & Emotion",
       "subcategory": "face-affection",
       "codepoints": "1F929",
-      "keyTerms": [
-        "eyes",
-        "face",
-        "grinning",
-        "star",
-        "star-struck",
-        "starry-eyed"
-      ]
+      "keyTerms": ["eyes", "face", "grinning", "star", "star-struck", "starry-eyed"]
     },
     {
       "emoji": "😘",
@@ -216,11 +145,11 @@ export const emojidata = {
       "keyTerms": ["face", "kiss", "kissing face"]
     },
     {
-      "emoji": "☺",
+      "emoji": "☺️",
       "name": "smiling face",
       "category": "Smileys & Emotion",
       "subcategory": "face-affection",
-      "codepoints": "263A",
+      "codepoints": "263A FE0F",
       "keyTerms": ["face", "outlined", "relaxed", "smile", "smiling face"]
     },
     {
@@ -229,13 +158,7 @@ export const emojidata = {
       "category": "Smileys & Emotion",
       "subcategory": "face-affection",
       "codepoints": "1F61A",
-      "keyTerms": [
-        "closed",
-        "eye",
-        "face",
-        "kiss",
-        "kissing face with closed eyes"
-      ]
+      "keyTerms": ["closed", "eye", "face", "kiss", "kissing face with closed eyes"]
     },
     {
       "emoji": "😙",
@@ -243,13 +166,7 @@ export const emojidata = {
       "category": "Smileys & Emotion",
       "subcategory": "face-affection",
       "codepoints": "1F619",
-      "keyTerms": [
-        "eye",
-        "face",
-        "kiss",
-        "kissing face with smiling eyes",
-        "smile"
-      ]
+      "keyTerms": ["eye", "face", "kiss", "kissing face with smiling eyes", "smile"]
     },
     {
       "emoji": "😋",
@@ -257,14 +174,7 @@ export const emojidata = {
       "category": "Smileys & Emotion",
       "subcategory": "face-tongue",
       "codepoints": "1F60B",
-      "keyTerms": [
-        "delicious",
-        "face",
-        "face savoring food",
-        "savouring",
-        "smile",
-        "yum"
-      ]
+      "keyTerms": ["delicious", "face", "face savoring food", "savouring", "smile", "yum"]
     },
     {
       "emoji": "😛",
@@ -280,14 +190,7 @@ export const emojidata = {
       "category": "Smileys & Emotion",
       "subcategory": "face-tongue",
       "codepoints": "1F61C",
-      "keyTerms": [
-        "eye",
-        "face",
-        "joke",
-        "tongue",
-        "wink",
-        "winking face with tongue"
-      ]
+      "keyTerms": ["eye", "face", "joke", "tongue", "wink", "winking face with tongue"]
     },
     {
       "emoji": "🤪",
@@ -303,14 +206,7 @@ export const emojidata = {
       "category": "Smileys & Emotion",
       "subcategory": "face-tongue",
       "codepoints": "1F61D",
-      "keyTerms": [
-        "eye",
-        "face",
-        "horrible",
-        "squinting face with tongue",
-        "taste",
-        "tongue"
-      ]
+      "keyTerms": ["eye", "face", "horrible", "squinting face with tongue", "taste", "tongue"]
     },
     {
       "emoji": "🤑",
@@ -334,13 +230,7 @@ export const emojidata = {
       "category": "Smileys & Emotion",
       "subcategory": "face-hand",
       "codepoints": "1F92D",
-      "keyTerms": [
-        "face with hand over mouth",
-        "whoops",
-        "shock",
-        "sudden realization",
-        "surprise"
-      ]
+      "keyTerms": ["face with hand over mouth", "whoops", "shock", "sudden realization", "surprise"]
     },
     {
       "emoji": "🤫",
@@ -372,15 +262,7 @@ export const emojidata = {
       "category": "Smileys & Emotion",
       "subcategory": "face-neutral-skeptical",
       "codepoints": "1F928",
-      "keyTerms": [
-        "distrust",
-        "face with raised eyebrow",
-        "skeptic",
-        "disapproval",
-        "disbelief",
-        "mild surprise",
-        "scepticism"
-      ]
+      "keyTerms": ["distrust", "face with raised eyebrow", "skeptic", "disapproval", "disbelief", "mild surprise", "scepticism"]
     },
     {
       "emoji": "😐",
@@ -396,13 +278,7 @@ export const emojidata = {
       "category": "Smileys & Emotion",
       "subcategory": "face-neutral-skeptical",
       "codepoints": "1F611",
-      "keyTerms": [
-        "expressionless",
-        "face",
-        "inexpressive",
-        "meh",
-        "unexpressive"
-      ]
+      "keyTerms": ["expressionless", "face", "inexpressive", "meh", "unexpressive"]
     },
     {
       "emoji": "😶",
@@ -434,13 +310,7 @@ export const emojidata = {
       "category": "Smileys & Emotion",
       "subcategory": "face-neutral-skeptical",
       "codepoints": "1F644",
-      "keyTerms": [
-        "eyeroll",
-        "eyes",
-        "face",
-        "face with rolling eyes",
-        "rolling"
-      ]
+      "keyTerms": ["eyeroll", "eyes", "face", "face with rolling eyes", "rolling"]
     },
     {
       "emoji": "😬",
@@ -504,14 +374,7 @@ export const emojidata = {
       "category": "Smileys & Emotion",
       "subcategory": "face-unwell",
       "codepoints": "1F637",
-      "keyTerms": [
-        "cold",
-        "doctor",
-        "face",
-        "face with medical mask",
-        "mask",
-        "sick"
-      ]
+      "keyTerms": ["cold", "doctor", "face", "face with medical mask", "mask", "sick"]
     },
     {
       "emoji": "🤒",
@@ -519,13 +382,7 @@ export const emojidata = {
       "category": "Smileys & Emotion",
       "subcategory": "face-unwell",
       "codepoints": "1F912",
-      "keyTerms": [
-        "face",
-        "face with thermometer",
-        "ill",
-        "sick",
-        "thermometer"
-      ]
+      "keyTerms": ["face", "face with thermometer", "ill", "sick", "thermometer"]
     },
     {
       "emoji": "🤕",
@@ -533,13 +390,7 @@ export const emojidata = {
       "category": "Smileys & Emotion",
       "subcategory": "face-unwell",
       "codepoints": "1F915",
-      "keyTerms": [
-        "bandage",
-        "face",
-        "face with head-bandage",
-        "hurt",
-        "injury"
-      ]
+      "keyTerms": ["bandage", "face", "face with head-bandage", "hurt", "injury"]
     },
     {
       "emoji": "🤢",
@@ -571,14 +422,7 @@ export const emojidata = {
       "category": "Smileys & Emotion",
       "subcategory": "face-unwell",
       "codepoints": "1F975",
-      "keyTerms": [
-        "feverish",
-        "heat stroke",
-        "hot",
-        "hot face",
-        "red-faced",
-        "sweating"
-      ]
+      "keyTerms": ["feverish", "heat stroke", "hot", "hot face", "red-faced", "sweating"]
     },
     {
       "emoji": "🥶",
@@ -586,14 +430,7 @@ export const emojidata = {
       "category": "Smileys & Emotion",
       "subcategory": "face-unwell",
       "codepoints": "1F976",
-      "keyTerms": [
-        "blue-faced",
-        "cold",
-        "cold face",
-        "freezing",
-        "frostbite",
-        "icicles"
-      ]
+      "keyTerms": ["blue-faced", "cold", "cold face", "freezing", "frostbite", "icicles"]
     },
     {
       "emoji": "🥴",
@@ -601,14 +438,7 @@ export const emojidata = {
       "category": "Smileys & Emotion",
       "subcategory": "face-unwell",
       "codepoints": "1F974",
-      "keyTerms": [
-        "dizzy",
-        "intoxicated",
-        "tipsy",
-        "uneven eyes",
-        "wavy mouth",
-        "woozy face"
-      ]
+      "keyTerms": ["dizzy", "intoxicated", "tipsy", "uneven eyes", "wavy mouth", "woozy face"]
     },
     {
       "emoji": "😵",
@@ -648,14 +478,7 @@ export const emojidata = {
       "category": "Smileys & Emotion",
       "subcategory": "face-glasses",
       "codepoints": "1F60E",
-      "keyTerms": [
-        "bright",
-        "cool",
-        "face",
-        "smiling face with sunglasses",
-        "sun",
-        "sunglasses"
-      ]
+      "keyTerms": ["bright", "cool", "face", "smiling face with sunglasses", "sun", "sunglasses"]
     },
     {
       "emoji": "🤓",
@@ -698,11 +521,11 @@ export const emojidata = {
       "keyTerms": ["face", "frown", "slightly frowning face"]
     },
     {
-      "emoji": "☹",
+      "emoji": "☹️",
       "name": "frowning face",
       "category": "Smileys & Emotion",
       "subcategory": "face-concerned",
-      "codepoints": 2639,
+      "codepoints": "2639 FE0F",
       "keyTerms": ["face", "frown", "frowning face"]
     },
     {
@@ -751,13 +574,7 @@ export const emojidata = {
       "category": "Smileys & Emotion",
       "subcategory": "face-concerned",
       "codepoints": "1F626",
-      "keyTerms": [
-        "face",
-        "frown",
-        "frowning face with open mouth",
-        "mouth",
-        "open"
-      ]
+      "keyTerms": ["face", "frown", "frowning face with open mouth", "mouth", "open"]
     },
     {
       "emoji": "😧",
@@ -781,14 +598,7 @@ export const emojidata = {
       "category": "Smileys & Emotion",
       "subcategory": "face-concerned",
       "codepoints": "1F630",
-      "keyTerms": [
-        "anxious face with sweat",
-        "blue",
-        "cold",
-        "face",
-        "rushed",
-        "sweat"
-      ]
+      "keyTerms": ["anxious face with sweat", "blue", "cold", "face", "rushed", "sweat"]
     },
     {
       "emoji": "😥",
@@ -796,13 +606,7 @@ export const emojidata = {
       "category": "Smileys & Emotion",
       "subcategory": "face-concerned",
       "codepoints": "1F625",
-      "keyTerms": [
-        "disappointed",
-        "face",
-        "relieved",
-        "sad but relieved face",
-        "whew"
-      ]
+      "keyTerms": ["disappointed", "face", "relieved", "sad but relieved face", "whew"]
     },
     {
       "emoji": "😢",
@@ -826,14 +630,7 @@ export const emojidata = {
       "category": "Smileys & Emotion",
       "subcategory": "face-concerned",
       "codepoints": "1F631",
-      "keyTerms": [
-        "face",
-        "face screaming in fear",
-        "fear",
-        "munch",
-        "scared",
-        "scream"
-      ]
+      "keyTerms": ["face", "face screaming in fear", "fear", "munch", "scared", "scream"]
     },
     {
       "emoji": "😖",
@@ -929,14 +726,7 @@ export const emojidata = {
       "category": "Smileys & Emotion",
       "subcategory": "face-negative",
       "codepoints": "1F608",
-      "keyTerms": [
-        "face",
-        "fairy tale",
-        "fantasy",
-        "horns",
-        "smile",
-        "smiling face with horns"
-      ]
+      "keyTerms": ["face", "fairy tale", "fantasy", "horns", "smile", "smiling face with horns"]
     },
     {
       "emoji": "👿",
@@ -944,14 +734,7 @@ export const emojidata = {
       "category": "Smileys & Emotion",
       "subcategory": "face-negative",
       "codepoints": "1F47F",
-      "keyTerms": [
-        "angry face with horns",
-        "demon",
-        "devil",
-        "face",
-        "fantasy",
-        "imp"
-      ]
+      "keyTerms": ["angry face with horns", "demon", "devil", "face", "fantasy", "imp"]
     },
     {
       "emoji": "💀",
@@ -962,19 +745,12 @@ export const emojidata = {
       "keyTerms": ["death", "face", "fairy tale", "monster", "skull"]
     },
     {
-      "emoji": "☠",
+      "emoji": "☠️",
       "name": "skull and crossbones",
       "category": "Smileys & Emotion",
       "subcategory": "face-negative",
-      "codepoints": 2620,
-      "keyTerms": [
-        "crossbones",
-        "death",
-        "face",
-        "monster",
-        "skull",
-        "skull and crossbones"
-      ]
+      "codepoints": "2620 FE0F",
+      "keyTerms": ["crossbones", "death", "face", "monster", "skull", "skull and crossbones"]
     },
     {
       "emoji": "💩",
@@ -998,15 +774,7 @@ export const emojidata = {
       "category": "Smileys & Emotion",
       "subcategory": "face-costume",
       "codepoints": "1F479",
-      "keyTerms": [
-        "creature",
-        "face",
-        "fairy tale",
-        "fantasy",
-        "monster",
-        "ogre",
-        "troll"
-      ]
+      "keyTerms": ["creature", "face", "fairy tale", "fantasy", "monster", "ogre", "troll"]
     },
     {
       "emoji": "👺",
@@ -1014,14 +782,7 @@ export const emojidata = {
       "category": "Smileys & Emotion",
       "subcategory": "face-costume",
       "codepoints": "1F47A",
-      "keyTerms": [
-        "creature",
-        "face",
-        "fairy tale",
-        "fantasy",
-        "goblin",
-        "monster"
-      ]
+      "keyTerms": ["creature", "face", "fairy tale", "fantasy", "goblin", "monster"]
     },
     {
       "emoji": "👻",
@@ -1029,14 +790,7 @@ export const emojidata = {
       "category": "Smileys & Emotion",
       "subcategory": "face-costume",
       "codepoints": "1F47B",
-      "keyTerms": [
-        "creature",
-        "face",
-        "fairy tale",
-        "fantasy",
-        "ghost",
-        "monster"
-      ]
+      "keyTerms": ["creature", "face", "fairy tale", "fantasy", "ghost", "monster"]
     },
     {
       "emoji": "👽",
@@ -1044,14 +798,7 @@ export const emojidata = {
       "category": "Smileys & Emotion",
       "subcategory": "face-costume",
       "codepoints": "1F47D",
-      "keyTerms": [
-        "alien",
-        "creature",
-        "extraterrestrial",
-        "face",
-        "fantasy",
-        "ufo"
-      ]
+      "keyTerms": ["alien", "creature", "extraterrestrial", "face", "fantasy", "ufo"]
     },
     {
       "emoji": "👾",
@@ -1059,14 +806,7 @@ export const emojidata = {
       "category": "Smileys & Emotion",
       "subcategory": "face-costume",
       "codepoints": "1F47E",
-      "keyTerms": [
-        "alien",
-        "creature",
-        "extraterrestrial",
-        "face",
-        "monster",
-        "ufo"
-      ]
+      "keyTerms": ["alien", "creature", "extraterrestrial", "face", "monster", "ufo"]
     },
     {
       "emoji": "🤖",
@@ -1090,14 +830,7 @@ export const emojidata = {
       "category": "Smileys & Emotion",
       "subcategory": "cat-face",
       "codepoints": "1F638",
-      "keyTerms": [
-        "cat",
-        "eye",
-        "face",
-        "grin",
-        "grinning cat with smiling eyes",
-        "smile"
-      ]
+      "keyTerms": ["cat", "eye", "face", "grin", "grinning cat with smiling eyes", "smile"]
     },
     {
       "emoji": "😹",
@@ -1113,15 +846,7 @@ export const emojidata = {
       "category": "Smileys & Emotion",
       "subcategory": "cat-face",
       "codepoints": "1F63B",
-      "keyTerms": [
-        "cat",
-        "eye",
-        "face",
-        "heart",
-        "love",
-        "smile",
-        "smiling cat with heart-eyes"
-      ]
+      "keyTerms": ["cat", "eye", "face", "heart", "love", "smile", "smiling cat with heart-eyes"]
     },
     {
       "emoji": "😼",
@@ -1129,14 +854,7 @@ export const emojidata = {
       "category": "Smileys & Emotion",
       "subcategory": "cat-face",
       "codepoints": "1F63C",
-      "keyTerms": [
-        "cat",
-        "cat with wry smile",
-        "face",
-        "ironic",
-        "smile",
-        "wry"
-      ]
+      "keyTerms": ["cat", "cat with wry smile", "face", "ironic", "smile", "wry"]
     },
     {
       "emoji": "😽",
@@ -1176,14 +894,7 @@ export const emojidata = {
       "category": "Smileys & Emotion",
       "subcategory": "monkey-face",
       "codepoints": "1F648",
-      "keyTerms": [
-        "evil",
-        "face",
-        "forbidden",
-        "monkey",
-        "see",
-        "see-no-evil monkey"
-      ]
+      "keyTerms": ["evil", "face", "forbidden", "monkey", "see", "see-no-evil monkey"]
     },
     {
       "emoji": "🙉",
@@ -1191,14 +902,7 @@ export const emojidata = {
       "category": "Smileys & Emotion",
       "subcategory": "monkey-face",
       "codepoints": "1F649",
-      "keyTerms": [
-        "evil",
-        "face",
-        "forbidden",
-        "hear",
-        "hear-no-evil monkey",
-        "monkey"
-      ]
+      "keyTerms": ["evil", "face", "forbidden", "hear", "hear-no-evil monkey", "monkey"]
     },
     {
       "emoji": "🙊",
@@ -1206,14 +910,7 @@ export const emojidata = {
       "category": "Smileys & Emotion",
       "subcategory": "monkey-face",
       "codepoints": "1F64A",
-      "keyTerms": [
-        "evil",
-        "face",
-        "forbidden",
-        "monkey",
-        "speak",
-        "speak-no-evil monkey"
-      ]
+      "keyTerms": ["evil", "face", "forbidden", "monkey", "speak", "speak-no-evil monkey"]
     },
     {
       "emoji": "💋",
@@ -1296,11 +993,11 @@ export const emojidata = {
       "keyTerms": ["heart", "heart decoration"]
     },
     {
-      "emoji": "❣",
+      "emoji": "❣️",
       "name": "heart exclamation",
       "category": "Smileys & Emotion",
       "subcategory": "emotion",
-      "codepoints": 2763,
+      "codepoints": "2763 FE0F",
       "keyTerms": ["exclamation", "heart exclamation", "mark", "punctuation"]
     },
     {
@@ -1312,11 +1009,11 @@ export const emojidata = {
       "keyTerms": ["break", "broken", "broken heart"]
     },
     {
-      "emoji": "❤",
+      "emoji": "❤️",
       "name": "red heart",
       "category": "Smileys & Emotion",
       "subcategory": "emotion",
-      "codepoints": 2764,
+      "codepoints": "2764 FE0F",
       "keyTerms": ["heart", "red heart"]
     },
     {
@@ -1552,7 +1249,7 @@ export const emojidata = {
       "keyTerms": ["pinching hand", "small amount"]
     },
     {
-      "emoji": "✌",
+      "emoji": "✌️",
       "name": "victory hand",
       "category": "People & Body",
       "subcategory": "hand-fingers-partial",
@@ -1597,14 +1294,7 @@ export const emojidata = {
       "category": "People & Body",
       "subcategory": "hand-single-finger",
       "codepoints": "1F448",
-      "keyTerms": [
-        "backhand",
-        "backhand index pointing left",
-        "finger",
-        "hand",
-        "index",
-        "point"
-      ]
+      "keyTerms": ["backhand", "backhand index pointing left", "finger", "hand", "index", "point"]
     },
     {
       "emoji": "👉",
@@ -1612,14 +1302,7 @@ export const emojidata = {
       "category": "People & Body",
       "subcategory": "hand-single-finger",
       "codepoints": "1F449",
-      "keyTerms": [
-        "backhand",
-        "backhand index pointing right",
-        "finger",
-        "hand",
-        "index",
-        "point"
-      ]
+      "keyTerms": ["backhand", "backhand index pointing right", "finger", "hand", "index", "point"]
     },
     {
       "emoji": "👆",
@@ -1627,14 +1310,7 @@ export const emojidata = {
       "category": "People & Body",
       "subcategory": "hand-single-finger",
       "codepoints": "1F446",
-      "keyTerms": [
-        "backhand",
-        "backhand index pointing up",
-        "finger",
-        "hand",
-        "point",
-        "up"
-      ]
+      "keyTerms": ["backhand", "backhand index pointing up", "finger", "hand", "point", "up"]
     },
     {
       "emoji": "🖕",
@@ -1650,29 +1326,15 @@ export const emojidata = {
       "category": "People & Body",
       "subcategory": "hand-single-finger",
       "codepoints": "1F447",
-      "keyTerms": [
-        "backhand",
-        "backhand index pointing down",
-        "down",
-        "finger",
-        "hand",
-        "point"
-      ]
+      "keyTerms": ["backhand", "backhand index pointing down", "down", "finger", "hand", "point"]
     },
     {
-      "emoji": "☝",
+      "emoji": "☝️",
       "name": "index pointing up",
       "category": "People & Body",
       "subcategory": "hand-single-finger",
       "codepoints": "261D",
-      "keyTerms": [
-        "finger",
-        "hand",
-        "index",
-        "index pointing up",
-        "point",
-        "up"
-      ]
+      "keyTerms": ["finger", "hand", "index", "index pointing up", "point", "up"]
     },
     {
       "emoji": "👍",
@@ -1736,14 +1398,7 @@ export const emojidata = {
       "category": "People & Body",
       "subcategory": "hands",
       "codepoints": "1F64C",
-      "keyTerms": [
-        "celebration",
-        "gesture",
-        "hand",
-        "hooray",
-        "raised",
-        "raising hands"
-      ]
+      "keyTerms": ["celebration", "gesture", "hand", "hooray", "raised", "raising hands"]
     },
     {
       "emoji": "👐",
@@ -1778,7 +1433,7 @@ export const emojidata = {
       "keyTerms": ["ask", "folded hands", "hand", "please", "pray", "thanks"]
     },
     {
-      "emoji": "✍",
+      "emoji": "✍️",
       "name": "writing hand",
       "category": "People & Body",
       "subcategory": "hand-prop",
@@ -1991,13 +1646,7 @@ export const emojidata = {
       "category": "People & Body",
       "subcategory": "person",
       "codepoints": "1F471 200D 2642 FE0F",
-      "keyTerms": [
-        "blond",
-        "blond-haired man",
-        "hair",
-        "man",
-        "man: blond hair"
-      ]
+      "keyTerms": ["blond", "blond-haired man", "hair", "man", "man: blond hair"]
     },
     {
       "emoji": "👨‍🦰",
@@ -2045,13 +1694,7 @@ export const emojidata = {
       "category": "People & Body",
       "subcategory": "person",
       "codepoints": "1F471 200D 2640 FE0F",
-      "keyTerms": [
-        "blond-haired woman",
-        "blonde",
-        "hair",
-        "woman",
-        "woman: blond hair"
-      ]
+      "keyTerms": ["blond-haired woman", "blonde", "hair", "woman", "woman: blond hair"]
     },
     {
       "emoji": "👩‍🦰",
@@ -2091,13 +1734,7 @@ export const emojidata = {
       "category": "People & Body",
       "subcategory": "person",
       "codepoints": "1F9D3",
-      "keyTerms": [
-        "adult",
-        "gender-neutral",
-        "old",
-        "older person",
-        "unspecified gender"
-      ]
+      "keyTerms": ["adult", "gender-neutral", "old", "older person", "unspecified gender"]
     },
     {
       "emoji": "👴",
@@ -2169,13 +1806,7 @@ export const emojidata = {
       "category": "People & Body",
       "subcategory": "person-gesture",
       "codepoints": "1F645",
-      "keyTerms": [
-        "forbidden",
-        "gesture",
-        "hand",
-        "person gesturing NO",
-        "prohibited"
-      ]
+      "keyTerms": ["forbidden", "gesture", "hand", "person gesturing NO", "prohibited"]
     },
     {
       "emoji": "🙅‍♂️",
@@ -2183,14 +1814,7 @@ export const emojidata = {
       "category": "People & Body",
       "subcategory": "person-gesture",
       "codepoints": "1F645 200D 2642 FE0F",
-      "keyTerms": [
-        "forbidden",
-        "gesture",
-        "hand",
-        "man",
-        "man gesturing NO",
-        "prohibited"
-      ]
+      "keyTerms": ["forbidden", "gesture", "hand", "man", "man gesturing NO", "prohibited"]
     },
     {
       "emoji": "🙅‍♀️",
@@ -2198,14 +1822,7 @@ export const emojidata = {
       "category": "People & Body",
       "subcategory": "person-gesture",
       "codepoints": "1F645 200D 2640 FE0F",
-      "keyTerms": [
-        "forbidden",
-        "gesture",
-        "hand",
-        "prohibited",
-        "woman",
-        "woman gesturing NO"
-      ]
+      "keyTerms": ["forbidden", "gesture", "hand", "prohibited", "woman", "woman gesturing NO"]
     },
     {
       "emoji": "🙆",
@@ -2237,14 +1854,7 @@ export const emojidata = {
       "category": "People & Body",
       "subcategory": "person-gesture",
       "codepoints": "1F481",
-      "keyTerms": [
-        "hand",
-        "help",
-        "information",
-        "person tipping hand",
-        "sassy",
-        "tipping"
-      ]
+      "keyTerms": ["hand", "help", "information", "person tipping hand", "sassy", "tipping"]
     },
     {
       "emoji": "💁‍♂️",
@@ -2340,13 +1950,7 @@ export const emojidata = {
       "category": "People & Body",
       "subcategory": "person-gesture",
       "codepoints": "1F926",
-      "keyTerms": [
-        "disbelief",
-        "exasperation",
-        "face",
-        "palm",
-        "person facepalming"
-      ]
+      "keyTerms": ["disbelief", "exasperation", "face", "palm", "person facepalming"]
     },
     {
       "emoji": "🤦‍♂️",
@@ -2354,13 +1958,7 @@ export const emojidata = {
       "category": "People & Body",
       "subcategory": "person-gesture",
       "codepoints": "1F926 200D 2642 FE0F",
-      "keyTerms": [
-        "disbelief",
-        "exasperation",
-        "facepalm",
-        "man",
-        "man facepalming"
-      ]
+      "keyTerms": ["disbelief", "exasperation", "facepalm", "man", "man facepalming"]
     },
     {
       "emoji": "🤦‍♀️",
@@ -2368,13 +1966,7 @@ export const emojidata = {
       "category": "People & Body",
       "subcategory": "person-gesture",
       "codepoints": "1F926 200D 2640 FE0F",
-      "keyTerms": [
-        "disbelief",
-        "exasperation",
-        "facepalm",
-        "woman",
-        "woman facepalming"
-      ]
+      "keyTerms": ["disbelief", "exasperation", "facepalm", "woman", "woman facepalming"]
     },
     {
       "emoji": "🤷",
@@ -2382,13 +1974,7 @@ export const emojidata = {
       "category": "People & Body",
       "subcategory": "person-gesture",
       "codepoints": "1F937",
-      "keyTerms": [
-        "doubt",
-        "ignorance",
-        "indifference",
-        "person shrugging",
-        "shrug"
-      ]
+      "keyTerms": ["doubt", "ignorance", "indifference", "person shrugging", "shrug"]
     },
     {
       "emoji": "🤷‍♂️",
@@ -2396,14 +1982,7 @@ export const emojidata = {
       "category": "People & Body",
       "subcategory": "person-gesture",
       "codepoints": "1F937 200D 2642 FE0F",
-      "keyTerms": [
-        "doubt",
-        "ignorance",
-        "indifference",
-        "man",
-        "man shrugging",
-        "shrug"
-      ]
+      "keyTerms": ["doubt", "ignorance", "indifference", "man", "man shrugging", "shrug"]
     },
     {
       "emoji": "🤷‍♀️",
@@ -2411,14 +1990,7 @@ export const emojidata = {
       "category": "People & Body",
       "subcategory": "person-gesture",
       "codepoints": "1F937 200D 2640 FE0F",
-      "keyTerms": [
-        "doubt",
-        "ignorance",
-        "indifference",
-        "shrug",
-        "woman",
-        "woman shrugging"
-      ]
+      "keyTerms": ["doubt", "ignorance", "indifference", "shrug", "woman", "woman shrugging"]
     },
     {
       "emoji": "👨‍⚕️",
@@ -2426,14 +1998,7 @@ export const emojidata = {
       "category": "People & Body",
       "subcategory": "person-role",
       "codepoints": "1F468 200D 2695 FE0F",
-      "keyTerms": [
-        "doctor",
-        "healthcare",
-        "man",
-        "man health worker",
-        "nurse",
-        "therapist"
-      ]
+      "keyTerms": ["doctor", "healthcare", "man", "man health worker", "nurse", "therapist"]
     },
     {
       "emoji": "👩‍⚕️",
@@ -2441,14 +2006,7 @@ export const emojidata = {
       "category": "People & Body",
       "subcategory": "person-role",
       "codepoints": "1F469 200D 2695 FE0F",
-      "keyTerms": [
-        "doctor",
-        "healthcare",
-        "nurse",
-        "therapist",
-        "woman",
-        "woman health worker"
-      ]
+      "keyTerms": ["doctor", "healthcare", "nurse", "therapist", "woman", "woman health worker"]
     },
     {
       "emoji": "👨‍🎓",
@@ -2544,13 +2102,7 @@ export const emojidata = {
       "category": "People & Body",
       "subcategory": "person-role",
       "codepoints": "1F469 200D 1F527",
-      "keyTerms": [
-        "electrician",
-        "mechanic",
-        "plumber",
-        "tradesperson",
-        "woman"
-      ]
+      "keyTerms": ["electrician", "mechanic", "plumber", "tradesperson", "woman"]
     },
     {
       "emoji": "👨‍🏭",
@@ -2574,14 +2126,7 @@ export const emojidata = {
       "category": "People & Body",
       "subcategory": "person-role",
       "codepoints": "1F468 200D 1F4BC",
-      "keyTerms": [
-        "architect",
-        "business",
-        "man",
-        "man office worker",
-        "manager",
-        "white-collar"
-      ]
+      "keyTerms": ["architect", "business", "man", "man office worker", "manager", "white-collar"]
     },
     {
       "emoji": "👩‍💼",
@@ -2589,14 +2134,7 @@ export const emojidata = {
       "category": "People & Body",
       "subcategory": "person-role",
       "codepoints": "1F469 200D 1F4BC",
-      "keyTerms": [
-        "architect",
-        "business",
-        "manager",
-        "white-collar",
-        "woman",
-        "woman office worker"
-      ]
+      "keyTerms": ["architect", "business", "manager", "white-collar", "woman", "woman office worker"]
     },
     {
       "emoji": "👨‍🔬",
@@ -2604,14 +2142,7 @@ export const emojidata = {
       "category": "People & Body",
       "subcategory": "person-role",
       "codepoints": "1F468 200D 1F52C",
-      "keyTerms": [
-        "biologist",
-        "chemist",
-        "engineer",
-        "man",
-        "physicist",
-        "scientist"
-      ]
+      "keyTerms": ["biologist", "chemist", "engineer", "man", "physicist", "scientist"]
     },
     {
       "emoji": "👩‍🔬",
@@ -2619,14 +2150,7 @@ export const emojidata = {
       "category": "People & Body",
       "subcategory": "person-role",
       "codepoints": "1F469 200D 1F52C",
-      "keyTerms": [
-        "biologist",
-        "chemist",
-        "engineer",
-        "physicist",
-        "scientist",
-        "woman"
-      ]
+      "keyTerms": ["biologist", "chemist", "engineer", "physicist", "scientist", "woman"]
     },
     {
       "emoji": "👨‍💻",
@@ -2634,14 +2158,7 @@ export const emojidata = {
       "category": "People & Body",
       "subcategory": "person-role",
       "codepoints": "1F468 200D 1F4BB",
-      "keyTerms": [
-        "coder",
-        "developer",
-        "inventor",
-        "man",
-        "software",
-        "technologist"
-      ]
+      "keyTerms": ["coder", "developer", "inventor", "man", "software", "technologist"]
     },
     {
       "emoji": "👩‍💻",
@@ -2649,14 +2166,7 @@ export const emojidata = {
       "category": "People & Body",
       "subcategory": "person-role",
       "codepoints": "1F469 200D 1F4BB",
-      "keyTerms": [
-        "coder",
-        "developer",
-        "inventor",
-        "software",
-        "technologist",
-        "woman"
-      ]
+      "keyTerms": ["coder", "developer", "inventor", "software", "technologist", "woman"]
     },
     {
       "emoji": "👨‍🎤",
@@ -2888,15 +2398,7 @@ export const emojidata = {
       "category": "People & Body",
       "subcategory": "person-role",
       "codepoints": "1F9D5",
-      "keyTerms": [
-        "headscarf",
-        "hijab",
-        "mantilla",
-        "tichel",
-        "woman with headscarf",
-        "bandana",
-        "head kerchief"
-      ]
+      "keyTerms": ["headscarf", "hijab", "mantilla", "tichel", "woman with headscarf", "bandana", "head kerchief"]
     },
     {
       "emoji": "🤵",
@@ -2944,14 +2446,7 @@ export const emojidata = {
       "category": "People & Body",
       "subcategory": "person-fantasy",
       "codepoints": "1F385",
-      "keyTerms": [
-        "celebration",
-        "Christmas",
-        "claus",
-        "father",
-        "santa",
-        "Santa Claus"
-      ]
+      "keyTerms": ["celebration", "Christmas", "claus", "father", "santa", "Santa Claus"]
     },
     {
       "emoji": "🤶",
@@ -2959,14 +2454,7 @@ export const emojidata = {
       "category": "People & Body",
       "subcategory": "person-fantasy",
       "codepoints": "1F936",
-      "keyTerms": [
-        "celebration",
-        "Christmas",
-        "claus",
-        "mother",
-        "Mrs.",
-        "Mrs. Claus"
-      ]
+      "keyTerms": ["celebration", "Christmas", "claus", "mother", "Mrs.", "Mrs. Claus"]
     },
     {
       "emoji": "🦸",
@@ -2974,14 +2462,7 @@ export const emojidata = {
       "category": "People & Body",
       "subcategory": "person-fantasy",
       "codepoints": "1F9B8",
-      "keyTerms": [
-        "good",
-        "hero",
-        "heroine",
-        "superhero",
-        "superpower",
-        "superpowers"
-      ]
+      "keyTerms": ["good", "hero", "heroine", "superhero", "superpower", "superpowers"]
     },
     {
       "emoji": "🦸‍♂️",
@@ -2997,14 +2478,7 @@ export const emojidata = {
       "category": "People & Body",
       "subcategory": "person-fantasy",
       "codepoints": "1F9B8 200D 2640 FE0F",
-      "keyTerms": [
-        "good",
-        "hero",
-        "heroine",
-        "superpower",
-        "woman",
-        "woman superhero"
-      ]
+      "keyTerms": ["good", "hero", "heroine", "superpower", "woman", "woman superhero"]
     },
     {
       "emoji": "🦹",
@@ -3012,15 +2486,7 @@ export const emojidata = {
       "category": "People & Body",
       "subcategory": "person-fantasy",
       "codepoints": "1F9B9",
-      "keyTerms": [
-        "criminal",
-        "evil",
-        "superpower",
-        "supervillain",
-        "villain",
-        "bad",
-        "superpowers"
-      ]
+      "keyTerms": ["criminal", "evil", "superpower", "supervillain", "villain", "bad", "superpowers"]
     },
     {
       "emoji": "🦹‍♂️",
@@ -3028,14 +2494,7 @@ export const emojidata = {
       "category": "People & Body",
       "subcategory": "person-fantasy",
       "codepoints": "1F9B9 200D 2642 FE0F",
-      "keyTerms": [
-        "criminal",
-        "evil",
-        "man",
-        "man supervillain",
-        "superpower",
-        "villain"
-      ]
+      "keyTerms": ["criminal", "evil", "man", "man supervillain", "superpower", "villain"]
     },
     {
       "emoji": "🦹‍♀️",
@@ -3043,14 +2502,7 @@ export const emojidata = {
       "category": "People & Body",
       "subcategory": "person-fantasy",
       "codepoints": "1F9B9 200D 2640 FE0F",
-      "keyTerms": [
-        "criminal",
-        "evil",
-        "superpower",
-        "villain",
-        "woman",
-        "woman supervillain"
-      ]
+      "keyTerms": ["criminal", "evil", "superpower", "villain", "woman", "woman supervillain"]
     },
     {
       "emoji": "🧙",
@@ -3250,13 +2702,7 @@ export const emojidata = {
       "category": "People & Body",
       "subcategory": "person-activity",
       "codepoints": "1F487",
-      "keyTerms": [
-        "barber",
-        "beauty",
-        "haircut",
-        "parlor",
-        "person getting haircut"
-      ]
+      "keyTerms": ["barber", "beauty", "haircut", "parlor", "person getting haircut"]
     },
     {
       "emoji": "💇‍♂️",
@@ -3368,12 +2814,7 @@ export const emojidata = {
       "category": "People & Body",
       "subcategory": "person-activity",
       "codepoints": "1F468 200D 1F9BC",
-      "keyTerms": [
-        "accessibility",
-        "man",
-        "man in motorized wheelchair",
-        "wheelchair"
-      ]
+      "keyTerms": ["accessibility", "man", "man in motorized wheelchair", "wheelchair"]
     },
     {
       "emoji": "👩‍🦼",
@@ -3381,12 +2822,7 @@ export const emojidata = {
       "category": "People & Body",
       "subcategory": "person-activity",
       "codepoints": "1F469 200D 1F9BC",
-      "keyTerms": [
-        "accessibility",
-        "wheelchair",
-        "woman",
-        "woman in motorized wheelchair"
-      ]
+      "keyTerms": ["accessibility", "wheelchair", "woman", "woman in motorized wheelchair"]
     },
     {
       "emoji": "👨‍🦽",
@@ -3394,12 +2830,7 @@ export const emojidata = {
       "category": "People & Body",
       "subcategory": "person-activity",
       "codepoints": "1F468 200D 1F9BD",
-      "keyTerms": [
-        "accessibility",
-        "man",
-        "man in manual wheelchair",
-        "wheelchair"
-      ]
+      "keyTerms": ["accessibility", "man", "man in manual wheelchair", "wheelchair"]
     },
     {
       "emoji": "👩‍🦽",
@@ -3407,12 +2838,7 @@ export const emojidata = {
       "category": "People & Body",
       "subcategory": "person-activity",
       "codepoints": "1F469 200D 1F9BD",
-      "keyTerms": [
-        "accessibility",
-        "wheelchair",
-        "woman",
-        "woman in manual wheelchair"
-      ]
+      "keyTerms": ["accessibility", "wheelchair", "woman", "woman in manual wheelchair"]
     },
     {
       "emoji": "🏃",
@@ -3476,13 +2902,7 @@ export const emojidata = {
       "category": "People & Body",
       "subcategory": "person-activity",
       "codepoints": "1F46F 200D 2642 FE0F",
-      "keyTerms": [
-        "bunny ear",
-        "dancer",
-        "men",
-        "men with bunny ears",
-        "partying"
-      ]
+      "keyTerms": ["bunny ear", "dancer", "men", "men with bunny ears", "partying"]
     },
     {
       "emoji": "👯‍♀️",
@@ -3490,13 +2910,7 @@ export const emojidata = {
       "category": "People & Body",
       "subcategory": "person-activity",
       "codepoints": "1F46F 200D 2640 FE0F",
-      "keyTerms": [
-        "bunny ear",
-        "dancer",
-        "partying",
-        "women",
-        "women with bunny ears"
-      ]
+      "keyTerms": ["bunny ear", "dancer", "partying", "women", "women with bunny ears"]
     },
     {
       "emoji": "🧖",
@@ -3504,13 +2918,7 @@ export const emojidata = {
       "category": "People & Body",
       "subcategory": "person-activity",
       "codepoints": "1F9D6",
-      "keyTerms": [
-        "person in steamy room",
-        "sauna",
-        "steam room",
-        "hamam",
-        "steambath"
-      ]
+      "keyTerms": ["person in steamy room", "sauna", "steam room", "hamam", "steambath"]
     },
     {
       "emoji": "🧖‍♂️",
@@ -3758,14 +3166,7 @@ export const emojidata = {
       "category": "People & Body",
       "subcategory": "person-sport",
       "codepoints": "1F6B5",
-      "keyTerms": [
-        "bicycle",
-        "bicyclist",
-        "bike",
-        "cyclist",
-        "mountain",
-        "person mountain biking"
-      ]
+      "keyTerms": ["bicycle", "bicyclist", "bike", "cyclist", "mountain", "person mountain biking"]
     },
     {
       "emoji": "🚵‍♂️",
@@ -3773,14 +3174,7 @@ export const emojidata = {
       "category": "People & Body",
       "subcategory": "person-sport",
       "codepoints": "1F6B5 200D 2642 FE0F",
-      "keyTerms": [
-        "bicycle",
-        "bike",
-        "cyclist",
-        "man",
-        "man mountain biking",
-        "mountain"
-      ]
+      "keyTerms": ["bicycle", "bike", "cyclist", "man", "man mountain biking", "mountain"]
     },
     {
       "emoji": "🚵‍♀️",
@@ -3956,14 +3350,7 @@ export const emojidata = {
       "category": "People & Body",
       "subcategory": "family",
       "codepoints": "1F9D1 200D 1F91D 200D 1F9D1",
-      "keyTerms": [
-        "couple",
-        "hand",
-        "hold",
-        "holding hands",
-        "people holding hands",
-        "person"
-      ]
+      "keyTerms": ["couple", "hand", "hold", "holding hands", "people holding hands", "person"]
     },
     {
       "emoji": "👭",
@@ -3971,13 +3358,7 @@ export const emojidata = {
       "category": "People & Body",
       "subcategory": "family",
       "codepoints": "1F46D",
-      "keyTerms": [
-        "couple",
-        "hand",
-        "holding hands",
-        "women",
-        "women holding hands"
-      ]
+      "keyTerms": ["couple", "hand", "holding hands", "women", "women holding hands"]
     },
     {
       "emoji": "👫",
@@ -3985,15 +3366,7 @@ export const emojidata = {
       "category": "People & Body",
       "subcategory": "family",
       "codepoints": "1F46B",
-      "keyTerms": [
-        "couple",
-        "hand",
-        "hold",
-        "holding hands",
-        "man",
-        "woman",
-        "woman and man holding hands"
-      ]
+      "keyTerms": ["couple", "hand", "hold", "holding hands", "man", "woman", "woman and man holding hands"]
     },
     {
       "emoji": "👬",
@@ -4001,16 +3374,7 @@ export const emojidata = {
       "category": "People & Body",
       "subcategory": "family",
       "codepoints": "1F46C",
-      "keyTerms": [
-        "couple",
-        "Gemini",
-        "holding hands",
-        "man",
-        "men",
-        "men holding hands",
-        "twins",
-        "zodiac"
-      ]
+      "keyTerms": ["couple", "Gemini", "holding hands", "man", "men", "men holding hands", "twins", "zodiac"]
     },
     {
       "emoji": "💏",
@@ -5148,15 +4512,7 @@ export const emojidata = {
       "category": "Animals & Nature",
       "subcategory": "animal-bug",
       "codepoints": "1F99F",
-      "keyTerms": [
-        "disease",
-        "fever",
-        "malaria",
-        "mosquito",
-        "pest",
-        "virus",
-        "insect"
-      ]
+      "keyTerms": ["disease", "fever", "malaria", "mosquito", "pest", "virus", "insect"]
     },
     {
       "emoji": "🦠",
@@ -5303,11 +4659,11 @@ export const emojidata = {
       "keyTerms": ["herb", "leaf"]
     },
     {
-      "emoji": "☘",
+      "emoji": "☘️",
       "name": "shamrock",
       "category": "Animals & Nature",
       "subcategory": "plant-other",
-      "codepoints": 2618,
+      "codepoints": "2618",
       "keyTerms": ["plant", "shamrock"]
     },
     {
@@ -5782,14 +5138,7 @@ export const emojidata = {
       "category": "Food & Drink",
       "subcategory": "food-prepared",
       "codepoints": "1F958",
-      "keyTerms": [
-        "casserole",
-        "food",
-        "paella",
-        "pan",
-        "shallow",
-        "shallow pan of food"
-      ]
+      "keyTerms": ["casserole", "food", "paella", "pan", "shallow", "shallow pan of food"]
     },
     {
       "emoji": "🍲",
@@ -5805,14 +5154,7 @@ export const emojidata = {
       "category": "Food & Drink",
       "subcategory": "food-prepared",
       "codepoints": "1F963",
-      "keyTerms": [
-        "bowl with spoon",
-        "breakfast",
-        "cereal",
-        "congee",
-        "oatmeal",
-        "porridge"
-      ]
+      "keyTerms": ["bowl with spoon", "breakfast", "cereal", "congee", "oatmeal", "porridge"]
     },
     {
       "emoji": "🥗",
@@ -5972,14 +5314,7 @@ export const emojidata = {
       "category": "Food & Drink",
       "subcategory": "food-asian",
       "codepoints": "1F95F",
-      "keyTerms": [
-        "dumpling",
-        "empanada",
-        "gyōza",
-        "jiaozi",
-        "pierogi",
-        "potsticker"
-      ]
+      "keyTerms": ["dumpling", "empanada", "gyōza", "jiaozi", "pierogi", "potsticker"]
     },
     {
       "emoji": "🥠",
@@ -6083,14 +5418,7 @@ export const emojidata = {
       "category": "Food & Drink",
       "subcategory": "food-sweet",
       "codepoints": "1F382",
-      "keyTerms": [
-        "birthday",
-        "cake",
-        "celebration",
-        "dessert",
-        "pastry",
-        "sweet"
-      ]
+      "keyTerms": ["birthday", "cake", "celebration", "dessert", "pastry", "sweet"]
     },
     {
       "emoji": "🍰",
@@ -6177,7 +5505,7 @@ export const emojidata = {
       "name": "hot beverage",
       "category": "Food & Drink",
       "subcategory": "drink",
-      "codepoints": 2615,
+      "codepoints": "2615",
       "keyTerms": ["beverage", "coffee", "drink", "hot", "steaming", "tea"]
     },
     {
@@ -6186,14 +5514,7 @@ export const emojidata = {
       "category": "Food & Drink",
       "subcategory": "drink",
       "codepoints": "1F375",
-      "keyTerms": [
-        "beverage",
-        "cup",
-        "drink",
-        "tea",
-        "teacup",
-        "teacup without handle"
-      ]
+      "keyTerms": ["beverage", "cup", "drink", "tea", "teacup", "teacup without handle"]
     },
     {
       "emoji": "🍶",
@@ -6209,14 +5530,7 @@ export const emojidata = {
       "category": "Food & Drink",
       "subcategory": "drink",
       "codepoints": "1F37E",
-      "keyTerms": [
-        "bar",
-        "bottle",
-        "bottle with popping cork",
-        "cork",
-        "drink",
-        "popping"
-      ]
+      "keyTerms": ["bar", "bottle", "bottle with popping cork", "cork", "drink", "popping"]
     },
     {
       "emoji": "🍷",
@@ -6280,14 +5594,7 @@ export const emojidata = {
       "category": "Food & Drink",
       "subcategory": "drink",
       "codepoints": "1F964",
-      "keyTerms": [
-        "cup with straw",
-        "juice",
-        "soda",
-        "malt",
-        "soft drink",
-        "water"
-      ]
+      "keyTerms": ["cup with straw", "juice", "soda", "malt", "soft drink", "water"]
     },
     {
       "emoji": "🧃",
@@ -6327,13 +5634,7 @@ export const emojidata = {
       "category": "Food & Drink",
       "subcategory": "dishware",
       "codepoints": "1F37D",
-      "keyTerms": [
-        "cooking",
-        "fork",
-        "fork and knife with plate",
-        "knife",
-        "plate"
-      ]
+      "keyTerms": ["cooking", "fork", "fork and knife with plate", "knife", "plate"]
     },
     {
       "emoji": "🍴",
@@ -6357,14 +5658,7 @@ export const emojidata = {
       "category": "Food & Drink",
       "subcategory": "dishware",
       "codepoints": "1F52A",
-      "keyTerms": [
-        "cooking",
-        "hocho",
-        "kitchen knife",
-        "knife",
-        "tool",
-        "weapon"
-      ]
+      "keyTerms": ["cooking", "hocho", "kitchen knife", "knife", "tool", "weapon"]
     },
     {
       "emoji": "🏺",
@@ -6382,13 +5676,7 @@ export const emojidata = {
       "category": "Activities",
       "subcategory": "event",
       "codepoints": "1F383",
-      "keyTerms": [
-        "celebration",
-        "halloween",
-        "jack",
-        "jack-o-lantern",
-        "lantern"
-      ]
+      "keyTerms": ["celebration", "halloween", "jack", "jack-o-lantern", "lantern"]
     },
     {
       "emoji": "🎄",
@@ -6427,7 +5715,7 @@ export const emojidata = {
       "name": "sparkles",
       "category": "Activities",
       "subcategory": "event",
-      "codepoints": 2728,
+      "codepoints": "2728",
       "keyTerms": ["*", "sparkle", "sparkles", "star"]
     },
     {
@@ -6468,13 +5756,7 @@ export const emojidata = {
       "category": "Activities",
       "subcategory": "event",
       "codepoints": "1F38D",
-      "keyTerms": [
-        "bamboo",
-        "celebration",
-        "Japanese",
-        "pine",
-        "pine decoration"
-      ]
+      "keyTerms": ["bamboo", "celebration", "Japanese", "pine", "pine decoration"]
     },
     {
       "emoji": "🎎",
@@ -6482,13 +5764,7 @@ export const emojidata = {
       "category": "Activities",
       "subcategory": "event",
       "codepoints": "1F38E",
-      "keyTerms": [
-        "celebration",
-        "doll",
-        "festival",
-        "Japanese",
-        "Japanese dolls"
-      ]
+      "keyTerms": ["celebration", "doll", "festival", "Japanese", "Japanese dolls"]
     },
     {
       "emoji": "🎏",
@@ -6520,14 +5796,7 @@ export const emojidata = {
       "category": "Activities",
       "subcategory": "event",
       "codepoints": "1F9E7",
-      "keyTerms": [
-        "gift",
-        "good luck",
-        "hóngbāo",
-        "lai see",
-        "money",
-        "red envelope"
-      ]
+      "keyTerms": ["gift", "good luck", "hóngbāo", "lai see", "money", "red envelope"]
     },
     {
       "emoji": "🎀",
@@ -6759,14 +6028,7 @@ export const emojidata = {
       "category": "Activities",
       "subcategory": "sport",
       "codepoints": "1F94B",
-      "keyTerms": [
-        "judo",
-        "karate",
-        "martial arts",
-        "martial arts uniform",
-        "taekwondo",
-        "uniform"
-      ]
+      "keyTerms": ["judo", "karate", "martial arts", "martial arts uniform", "taekwondo", "uniform"]
     },
     {
       "emoji": "🥅",
@@ -6878,14 +6140,7 @@ export const emojidata = {
       "category": "Activities",
       "subcategory": "game",
       "codepoints": "1F52E",
-      "keyTerms": [
-        "ball",
-        "crystal",
-        "fairy tale",
-        "fantasy",
-        "fortune",
-        "tool"
-      ]
+      "keyTerms": ["ball", "crystal", "fairy tale", "fantasy", "fortune", "tool"]
     },
     {
       "emoji": "🧿",
@@ -6893,14 +6148,7 @@ export const emojidata = {
       "category": "Activities",
       "subcategory": "game",
       "codepoints": "1F9FF",
-      "keyTerms": [
-        "bead",
-        "charm",
-        "evil-eye",
-        "nazar",
-        "nazar amulet",
-        "talisman"
-      ]
+      "keyTerms": ["bead", "charm", "evil-eye", "nazar", "nazar amulet", "talisman"]
     },
     {
       "emoji": "🎮",
@@ -6951,39 +6199,39 @@ export const emojidata = {
       "keyTerms": ["plaything", "plush", "stuffed", "teddy bear", "toy"]
     },
     {
-      "emoji": "♠",
+      "emoji": "♠️",
       "name": "spade suit",
       "category": "Activities",
       "subcategory": "game",
-      "codepoints": 2660,
+      "codepoints": "2660",
       "keyTerms": ["card", "game", "spade suit"]
     },
     {
-      "emoji": "♥",
+      "emoji": "♥️",
       "name": "heart suit",
       "category": "Activities",
       "subcategory": "game",
-      "codepoints": 2665,
+      "codepoints": "2665",
       "keyTerms": ["card", "game", "heart suit"]
     },
     {
-      "emoji": "♦",
+      "emoji": "♦️",
       "name": "diamond suit",
       "category": "Activities",
       "subcategory": "game",
-      "codepoints": 2666,
+      "codepoints": "2666",
       "keyTerms": ["card", "diamond suit", "game"]
     },
     {
-      "emoji": "♣",
+      "emoji": "♣️",
       "name": "club suit",
       "category": "Activities",
       "subcategory": "game",
-      "codepoints": 2663,
+      "codepoints": "2663",
       "keyTerms": ["card", "club suit", "game"]
     },
     {
-      "emoji": "♟",
+      "emoji": "♟️",
       "name": "chess pawn",
       "category": "Activities",
       "subcategory": "game",
@@ -7012,14 +6260,7 @@ export const emojidata = {
       "category": "Activities",
       "subcategory": "game",
       "codepoints": "1F3B4",
-      "keyTerms": [
-        "card",
-        "flower",
-        "flower playing cards",
-        "game",
-        "Japanese",
-        "playing"
-      ]
+      "keyTerms": ["card", "flower", "flower playing cards", "game", "Japanese", "playing"]
     },
     {
       "emoji": "🎭",
@@ -7027,14 +6268,7 @@ export const emojidata = {
       "category": "Activities",
       "subcategory": "arts & crafts",
       "codepoints": "1F3AD",
-      "keyTerms": [
-        "art",
-        "mask",
-        "performing",
-        "performing arts",
-        "theater",
-        "theatre"
-      ]
+      "keyTerms": ["art", "mask", "performing", "performing arts", "theater", "theatre"]
     },
     {
       "emoji": "🖼",
@@ -7042,14 +6276,7 @@ export const emojidata = {
       "category": "Activities",
       "subcategory": "arts & crafts",
       "codepoints": "1F5BC",
-      "keyTerms": [
-        "art",
-        "frame",
-        "framed picture",
-        "museum",
-        "painting",
-        "picture"
-      ]
+      "keyTerms": ["art", "frame", "framed picture", "museum", "painting", "picture"]
     },
     {
       "emoji": "🎨",
@@ -7083,14 +6310,7 @@ export const emojidata = {
       "category": "Travel & Places",
       "subcategory": "place-map",
       "codepoints": "1F30D",
-      "keyTerms": [
-        "Africa",
-        "earth",
-        "Europe",
-        "globe",
-        "globe showing Europe-Africa",
-        "world"
-      ]
+      "keyTerms": ["Africa", "earth", "Europe", "globe", "globe showing Europe-Africa", "world"]
     },
     {
       "emoji": "🌎",
@@ -7098,13 +6318,7 @@ export const emojidata = {
       "category": "Travel & Places",
       "subcategory": "place-map",
       "codepoints": "1F30E",
-      "keyTerms": [
-        "Americas",
-        "earth",
-        "globe",
-        "globe showing Americas",
-        "world"
-      ]
+      "keyTerms": ["Americas", "earth", "globe", "globe showing Americas", "world"]
     },
     {
       "emoji": "🌏",
@@ -7112,14 +6326,7 @@ export const emojidata = {
       "category": "Travel & Places",
       "subcategory": "place-map",
       "codepoints": "1F30F",
-      "keyTerms": [
-        "Asia",
-        "Australia",
-        "earth",
-        "globe",
-        "globe showing Asia-Australia",
-        "world"
-      ]
+      "keyTerms": ["Asia", "Australia", "earth", "globe", "globe showing Asia-Australia", "world"]
     },
     {
       "emoji": "🌐",
@@ -7127,13 +6334,7 @@ export const emojidata = {
       "category": "Travel & Places",
       "subcategory": "place-map",
       "codepoints": "1F310",
-      "keyTerms": [
-        "earth",
-        "globe",
-        "globe with meridians",
-        "meridians",
-        "world"
-      ]
+      "keyTerms": ["earth", "globe", "globe with meridians", "meridians", "world"]
     },
     {
       "emoji": "🗺",
@@ -7460,7 +6661,7 @@ export const emojidata = {
       "name": "shinto shrine",
       "category": "Travel & Places",
       "subcategory": "place-religious",
-      "codepoints": 26000000000,
+      "codepoints": "26E9",
       "keyTerms": ["religion", "shinto", "shrine"]
     },
     {
@@ -7517,13 +6718,7 @@ export const emojidata = {
       "category": "Travel & Places",
       "subcategory": "place-other",
       "codepoints": "1F304",
-      "keyTerms": [
-        "morning",
-        "mountain",
-        "sun",
-        "sunrise",
-        "sunrise over mountains"
-      ]
+      "keyTerms": ["morning", "mountain", "sun", "sunrise", "sunrise over mountains"]
     },
     {
       "emoji": "🌅",
@@ -7539,14 +6734,7 @@ export const emojidata = {
       "category": "Travel & Places",
       "subcategory": "place-other",
       "codepoints": "1F306",
-      "keyTerms": [
-        "city",
-        "cityscape at dusk",
-        "dusk",
-        "evening",
-        "landscape",
-        "sunset"
-      ]
+      "keyTerms": ["city", "cityscape at dusk", "dusk", "evening", "landscape", "sunset"]
     },
     {
       "emoji": "🌇",
@@ -7565,11 +6753,11 @@ export const emojidata = {
       "keyTerms": ["bridge", "bridge at night", "night"]
     },
     {
-      "emoji": "♨",
+      "emoji": "♨️",
       "name": "hot springs",
       "category": "Travel & Places",
       "subcategory": "place-other",
-      "codepoints": 2668,
+      "codepoints": "2668",
       "keyTerms": ["hot", "hotsprings", "springs", "steaming"]
     },
     {
@@ -7634,13 +6822,7 @@ export const emojidata = {
       "category": "Travel & Places",
       "subcategory": "transport-ground",
       "codepoints": "1F684",
-      "keyTerms": [
-        "high-speed train",
-        "railway",
-        "shinkansen",
-        "speed",
-        "train"
-      ]
+      "keyTerms": ["high-speed train", "railway", "shinkansen", "speed", "train"]
     },
     {
       "emoji": "🚅",
@@ -7999,7 +7181,7 @@ export const emojidata = {
       "name": "anchor",
       "category": "Travel & Places",
       "subcategory": "transport-water",
-      "codepoints": 2693,
+      "codepoints": "2693",
       "keyTerms": ["anchor", "ship", "tool"]
     },
     {
@@ -8059,11 +7241,11 @@ export const emojidata = {
       "keyTerms": ["boat", "passenger", "ship"]
     },
     {
-      "emoji": "✈",
+      "emoji": "✈️",
       "name": "airplane",
       "category": "Travel & Places",
       "subcategory": "transport-air",
-      "codepoints": 2708,
+      "codepoints": "2708",
       "keyTerms": ["aeroplane", "airplane"]
     },
     {
@@ -8080,13 +7262,7 @@ export const emojidata = {
       "category": "Travel & Places",
       "subcategory": "transport-air",
       "codepoints": "1F6EB",
-      "keyTerms": [
-        "aeroplane",
-        "airplane",
-        "check-in",
-        "departure",
-        "departures"
-      ]
+      "keyTerms": ["aeroplane", "airplane", "check-in", "departure", "departures"]
     },
     {
       "emoji": "🛬",
@@ -8094,14 +7270,7 @@ export const emojidata = {
       "category": "Travel & Places",
       "subcategory": "transport-air",
       "codepoints": "1F6EC",
-      "keyTerms": [
-        "aeroplane",
-        "airplane",
-        "airplane arrival",
-        "arrivals",
-        "arriving",
-        "landing"
-      ]
+      "keyTerms": ["aeroplane", "airplane", "airplane arrival", "arrivals", "arriving", "landing"]
     },
     {
       "emoji": "🪂",
@@ -8544,11 +7713,11 @@ export const emojidata = {
       "keyTerms": ["thermometer", "weather"]
     },
     {
-      "emoji": "☀",
+      "emoji": "☀️",
       "name": "sun",
       "category": "Travel & Places",
       "subcategory": "sky & weather",
-      "codepoints": 2600,
+      "codepoints": "2600",
       "keyTerms": ["bright", "rays", "sun", "sunny"]
     },
     {
@@ -8589,14 +7758,7 @@ export const emojidata = {
       "category": "Travel & Places",
       "subcategory": "sky & weather",
       "codepoints": "1F31F",
-      "keyTerms": [
-        "glittery",
-        "glow",
-        "glowing star",
-        "shining",
-        "sparkle",
-        "star"
-      ]
+      "keyTerms": ["glittery", "glow", "glowing star", "shining", "sparkle", "star"]
     },
     {
       "emoji": "🌠",
@@ -8615,11 +7777,11 @@ export const emojidata = {
       "keyTerms": ["milky way", "space"]
     },
     {
-      "emoji": "☁",
+      "emoji": "☁️",
       "name": "cloud",
       "category": "Travel & Places",
       "subcategory": "sky & weather",
-      "codepoints": 2601,
+      "codepoints": "2601",
       "keyTerms": ["cloud", "weather"]
     },
     {
@@ -8735,11 +7897,11 @@ export const emojidata = {
       "keyTerms": ["closed umbrella", "clothing", "rain", "umbrella"]
     },
     {
-      "emoji": "☂",
+      "emoji": "☂️",
       "name": "umbrella",
       "category": "Travel & Places",
       "subcategory": "sky & weather",
-      "codepoints": 2602,
+      "codepoints": "2602",
       "keyTerms": ["clothing", "rain", "umbrella"]
     },
     {
@@ -8747,14 +7909,8 @@ export const emojidata = {
       "name": "umbrella with rain drops",
       "category": "Travel & Places",
       "subcategory": "sky & weather",
-      "codepoints": 2614,
-      "keyTerms": [
-        "clothing",
-        "drop",
-        "rain",
-        "umbrella",
-        "umbrella with rain drops"
-      ]
+      "codepoints": "2614",
+      "keyTerms": ["clothing", "drop", "rain", "umbrella", "umbrella with rain drops"]
     },
     {
       "emoji": "⛱",
@@ -8770,29 +7926,22 @@ export const emojidata = {
       "category": "Travel & Places",
       "subcategory": "sky & weather",
       "codepoints": "26A1",
-      "keyTerms": [
-        "danger",
-        "electric",
-        "high voltage",
-        "lightning",
-        "voltage",
-        "zap"
-      ]
+      "keyTerms": ["danger", "electric", "high voltage", "lightning", "voltage", "zap"]
     },
     {
-      "emoji": "❄",
+      "emoji": "❄️",
       "name": "snowflake",
       "category": "Travel & Places",
       "subcategory": "sky & weather",
-      "codepoints": 2744,
+      "codepoints": "2744",
       "keyTerms": ["cold", "snow", "snowflake"]
     },
     {
-      "emoji": "☃",
+      "emoji": "☃️",
       "name": "snowman",
       "category": "Travel & Places",
       "subcategory": "sky & weather",
-      "codepoints": 2603,
+      "codepoints": "2603",
       "keyTerms": ["cold", "snow", "snowman"]
     },
     {
@@ -8804,11 +7953,11 @@ export const emojidata = {
       "keyTerms": ["cold", "snow", "snowman", "snowman without snow"]
     },
     {
-      "emoji": "☄",
+      "emoji": "☄️",
       "name": "comet",
       "category": "Travel & Places",
       "subcategory": "sky & weather",
-      "codepoints": 2604,
+      "codepoints": "2604",
       "keyTerms": ["comet", "space"]
     },
     {
@@ -8971,13 +8120,7 @@ export const emojidata = {
       "category": "Objects",
       "subcategory": "clothing",
       "codepoints": "1FA72",
-      "keyTerms": [
-        "bathing suit",
-        "briefs",
-        "one-piece",
-        "swimsuit",
-        "underwear"
-      ]
+      "keyTerms": ["bathing suit", "briefs", "one-piece", "swimsuit", "underwear"]
     },
     {
       "emoji": "🩳",
@@ -9153,14 +8296,7 @@ export const emojidata = {
       "category": "Objects",
       "subcategory": "clothing",
       "codepoints": "26D1",
-      "keyTerms": [
-        "aid",
-        "cross",
-        "face",
-        "hat",
-        "helmet",
-        "rescue worker’s helmet"
-      ]
+      "keyTerms": ["aid", "cross", "face", "hat", "helmet", "rescue worker’s helmet"]
     },
     {
       "emoji": "📿",
@@ -9264,14 +8400,7 @@ export const emojidata = {
       "category": "Objects",
       "subcategory": "sound",
       "codepoints": "1F515",
-      "keyTerms": [
-        "bell",
-        "bell with slash",
-        "forbidden",
-        "mute",
-        "quiet",
-        "silent"
-      ]
+      "keyTerms": ["bell", "bell with slash", "forbidden", "mute", "quiet", "silent"]
     },
     {
       "emoji": "🎼",
@@ -9367,13 +8496,7 @@ export const emojidata = {
       "category": "Objects",
       "subcategory": "musical-instrument",
       "codepoints": "1F3B9",
-      "keyTerms": [
-        "instrument",
-        "keyboard",
-        "music",
-        "musical keyboard",
-        "piano"
-      ]
+      "keyTerms": ["instrument", "keyboard", "music", "musical keyboard", "piano"]
     },
     {
       "emoji": "🎺",
@@ -9421,17 +8544,10 @@ export const emojidata = {
       "category": "Objects",
       "subcategory": "phone",
       "codepoints": "1F4F2",
-      "keyTerms": [
-        "arrow",
-        "cell",
-        "mobile",
-        "mobile phone with arrow",
-        "phone",
-        "receive"
-      ]
+      "keyTerms": ["arrow", "cell", "mobile", "mobile phone with arrow", "phone", "receive"]
     },
     {
-      "emoji": "☎",
+      "emoji": "☎️",
       "name": "telephone",
       "category": "Objects",
       "subcategory": "phone",
@@ -9503,11 +8619,11 @@ export const emojidata = {
       "keyTerms": ["computer", "printer"]
     },
     {
-      "emoji": "⌨",
+      "emoji": "⌨️",
       "name": "keyboard",
       "category": "Objects",
       "subcategory": "computer",
-      "codepoints": 2328,
+      "codepoints": "2328",
       "keyTerms": ["computer", "keyboard"]
     },
     {
@@ -9644,13 +8760,7 @@ export const emojidata = {
       "category": "Objects",
       "subcategory": "light & video",
       "codepoints": "1F50D",
-      "keyTerms": [
-        "glass",
-        "magnifying",
-        "magnifying glass tilted left",
-        "search",
-        "tool"
-      ]
+      "keyTerms": ["glass", "magnifying", "magnifying glass tilted left", "search", "tool"]
     },
     {
       "emoji": "🔎",
@@ -9658,13 +8768,7 @@ export const emojidata = {
       "category": "Objects",
       "subcategory": "light & video",
       "codepoints": "1F50E",
-      "keyTerms": [
-        "glass",
-        "magnifying",
-        "magnifying glass tilted right",
-        "search",
-        "tool"
-      ]
+      "keyTerms": ["glass", "magnifying", "magnifying glass tilted right", "search", "tool"]
     },
     {
       "emoji": "🕯",
@@ -9712,13 +8816,7 @@ export const emojidata = {
       "category": "Objects",
       "subcategory": "book-paper",
       "codepoints": "1F4D4",
-      "keyTerms": [
-        "book",
-        "cover",
-        "decorated",
-        "notebook",
-        "notebook with decorative cover"
-      ]
+      "keyTerms": ["book", "cover", "decorated", "notebook", "notebook with decorative cover"]
     },
     {
       "emoji": "📕",
@@ -9822,13 +8920,7 @@ export const emojidata = {
       "category": "Objects",
       "subcategory": "book-paper",
       "codepoints": "1F5DE",
-      "keyTerms": [
-        "news",
-        "newspaper",
-        "paper",
-        "rolled",
-        "rolled-up newspaper"
-      ]
+      "keyTerms": ["news", "newspaper", "paper", "rolled", "rolled-up newspaper"]
     },
     {
       "emoji": "📑",
@@ -9900,14 +8992,7 @@ export const emojidata = {
       "category": "Objects",
       "subcategory": "money",
       "codepoints": "1F4B8",
-      "keyTerms": [
-        "banknote",
-        "bill",
-        "fly",
-        "money",
-        "money with wings",
-        "wings"
-      ]
+      "keyTerms": ["banknote", "bill", "fly", "money", "money with wings", "wings"]
     },
     {
       "emoji": "💳",
@@ -9931,14 +9016,7 @@ export const emojidata = {
       "category": "Objects",
       "subcategory": "money",
       "codepoints": "1F4B9",
-      "keyTerms": [
-        "chart",
-        "chart increasing with yen",
-        "graph",
-        "growth",
-        "money",
-        "yen"
-      ]
+      "keyTerms": ["chart", "chart increasing with yen", "graph", "growth", "money", "yen"]
     },
     {
       "emoji": "💱",
@@ -9957,11 +9035,11 @@ export const emojidata = {
       "keyTerms": ["currency", "dollar", "heavy dollar sign", "money"]
     },
     {
-      "emoji": "✉",
+      "emoji": "✉️",
       "name": "envelope",
       "category": "Objects",
       "subcategory": "mail",
-      "codepoints": 2709,
+      "codepoints": "2709",
       "keyTerms": ["email", "envelope", "letter"]
     },
     {
@@ -9978,14 +9056,7 @@ export const emojidata = {
       "category": "Objects",
       "subcategory": "mail",
       "codepoints": "1F4E8",
-      "keyTerms": [
-        "e-mail",
-        "email",
-        "envelope",
-        "incoming",
-        "letter",
-        "receive"
-      ]
+      "keyTerms": ["e-mail", "email", "envelope", "incoming", "letter", "receive"]
     },
     {
       "emoji": "📩",
@@ -9993,14 +9064,7 @@ export const emojidata = {
       "category": "Objects",
       "subcategory": "mail",
       "codepoints": "1F4E9",
-      "keyTerms": [
-        "arrow",
-        "e-mail",
-        "email",
-        "envelope",
-        "envelope with arrow",
-        "outgoing"
-      ]
+      "keyTerms": ["arrow", "e-mail", "email", "envelope", "envelope with arrow", "outgoing"]
     },
     {
       "emoji": "📤",
@@ -10032,13 +9096,7 @@ export const emojidata = {
       "category": "Objects",
       "subcategory": "mail",
       "codepoints": "1F4EB",
-      "keyTerms": [
-        "closed",
-        "closed mailbox with raised flag",
-        "mail",
-        "mailbox",
-        "postbox"
-      ]
+      "keyTerms": ["closed", "closed mailbox with raised flag", "mail", "mailbox", "postbox"]
     },
     {
       "emoji": "📪",
@@ -10046,14 +9104,7 @@ export const emojidata = {
       "category": "Objects",
       "subcategory": "mail",
       "codepoints": "1F4EA",
-      "keyTerms": [
-        "closed",
-        "closed mailbox with lowered flag",
-        "lowered",
-        "mail",
-        "mailbox",
-        "postbox"
-      ]
+      "keyTerms": ["closed", "closed mailbox with lowered flag", "lowered", "mail", "mailbox", "postbox"]
     },
     {
       "emoji": "📬",
@@ -10061,13 +9112,7 @@ export const emojidata = {
       "category": "Objects",
       "subcategory": "mail",
       "codepoints": "1F4EC",
-      "keyTerms": [
-        "mail",
-        "mailbox",
-        "open",
-        "open mailbox with raised flag",
-        "postbox"
-      ]
+      "keyTerms": ["mail", "mailbox", "open", "open mailbox with raised flag", "postbox"]
     },
     {
       "emoji": "📭",
@@ -10075,14 +9120,7 @@ export const emojidata = {
       "category": "Objects",
       "subcategory": "mail",
       "codepoints": "1F4ED",
-      "keyTerms": [
-        "lowered",
-        "mail",
-        "mailbox",
-        "open",
-        "open mailbox with lowered flag",
-        "postbox"
-      ]
+      "keyTerms": ["lowered", "mail", "mailbox", "open", "open mailbox with lowered flag", "postbox"]
     },
     {
       "emoji": "📮",
@@ -10101,7 +9139,7 @@ export const emojidata = {
       "keyTerms": ["ballot", "ballot box with ballot", "box"]
     },
     {
-      "emoji": "✏",
+      "emoji": "✏️",
       "name": "pencil",
       "category": "Objects",
       "subcategory": "writing",
@@ -10109,11 +9147,11 @@ export const emojidata = {
       "keyTerms": ["pencil"]
     },
     {
-      "emoji": "✒",
+      "emoji": "✒️",
       "name": "black nib",
       "category": "Objects",
       "subcategory": "writing",
-      "codepoints": 2712,
+      "codepoints": "2712",
       "keyTerms": ["black nib", "nib", "pen"]
     },
     {
@@ -10234,14 +9272,7 @@ export const emojidata = {
       "category": "Objects",
       "subcategory": "office",
       "codepoints": "1F4C8",
-      "keyTerms": [
-        "chart",
-        "chart increasing",
-        "graph",
-        "growth",
-        "trend",
-        "upward"
-      ]
+      "keyTerms": ["chart", "chart increasing", "graph", "growth", "trend", "upward"]
     },
     {
       "emoji": "📉",
@@ -10316,11 +9347,11 @@ export const emojidata = {
       "keyTerms": ["ruler", "set", "triangle", "triangular ruler"]
     },
     {
-      "emoji": "✂",
+      "emoji": "✂️",
       "name": "scissors",
       "category": "Objects",
       "subcategory": "office",
-      "codepoints": 2702,
+      "codepoints": "2702",
       "keyTerms": ["cutting", "scissors", "tool"]
     },
     {
@@ -10420,11 +9451,11 @@ export const emojidata = {
       "keyTerms": ["mining", "pick", "tool"]
     },
     {
-      "emoji": "⚒",
+      "emoji": "⚒️",
       "name": "hammer and pick",
       "category": "Objects",
       "subcategory": "tool",
-      "codepoints": 2692,
+      "codepoints": "2692",
       "keyTerms": ["hammer", "hammer and pick", "pick", "tool"]
     },
     {
@@ -10444,11 +9475,11 @@ export const emojidata = {
       "keyTerms": ["dagger", "knife", "weapon"]
     },
     {
-      "emoji": "⚔",
+      "emoji": "⚔️",
       "name": "crossed swords",
       "category": "Objects",
       "subcategory": "tool",
-      "codepoints": 2694,
+      "codepoints": "2694",
       "keyTerms": ["crossed", "swords", "weapon"]
     },
     {
@@ -10465,14 +9496,7 @@ export const emojidata = {
       "category": "Objects",
       "subcategory": "tool",
       "codepoints": "1F3F9",
-      "keyTerms": [
-        "archer",
-        "arrow",
-        "bow",
-        "bow and arrow",
-        "Sagittarius",
-        "zodiac"
-      ]
+      "keyTerms": ["archer", "arrow", "bow", "bow and arrow", "Sagittarius", "zodiac"]
     },
     {
       "emoji": "🛡",
@@ -10499,11 +9523,11 @@ export const emojidata = {
       "keyTerms": ["bolt", "nut", "nut and bolt", "tool"]
     },
     {
-      "emoji": "⚙",
+      "emoji": "⚙️",
       "name": "gear",
       "category": "Objects",
       "subcategory": "tool",
-      "codepoints": 2699,
+      "codepoints": "2699",
       "keyTerms": ["cog", "cogwheel", "gear", "tool"]
     },
     {
@@ -10515,11 +9539,11 @@ export const emojidata = {
       "keyTerms": ["clamp", "compress", "tool", "vice"]
     },
     {
-      "emoji": "⚖",
+      "emoji": "⚖️",
       "name": "balance scale",
       "category": "Objects",
       "subcategory": "tool",
-      "codepoints": 2696,
+      "codepoints": "2696",
       "keyTerms": ["balance", "justice", "Libra", "scale", "zodiac"]
     },
     {
@@ -10563,11 +9587,11 @@ export const emojidata = {
       "keyTerms": ["attraction", "horseshoe", "magnet", "magnetic"]
     },
     {
-      "emoji": "⚗",
+      "emoji": "⚗️",
       "name": "alembic",
       "category": "Objects",
       "subcategory": "science",
-      "codepoints": 2697,
+      "codepoints": "2697",
       "keyTerms": ["alembic", "chemistry", "tool"]
     },
     {
@@ -10576,14 +9600,7 @@ export const emojidata = {
       "category": "Objects",
       "subcategory": "science",
       "codepoints": "1F9EA",
-      "keyTerms": [
-        "chemist",
-        "chemistry",
-        "experiment",
-        "lab",
-        "science",
-        "test tube"
-      ]
+      "keyTerms": ["chemist", "chemistry", "experiment", "lab", "science", "test tube"]
     },
     {
       "emoji": "🧫",
@@ -10591,14 +9608,7 @@ export const emojidata = {
       "category": "Objects",
       "subcategory": "science",
       "codepoints": "1F9EB",
-      "keyTerms": [
-        "bacteria",
-        "biologist",
-        "biology",
-        "culture",
-        "lab",
-        "petri dish"
-      ]
+      "keyTerms": ["bacteria", "biologist", "biology", "culture", "lab", "petri dish"]
     },
     {
       "emoji": "🧬",
@@ -10646,14 +9656,7 @@ export const emojidata = {
       "category": "Objects",
       "subcategory": "medical",
       "codepoints": "1FA78",
-      "keyTerms": [
-        "bleed",
-        "blood donation",
-        "drop of blood",
-        "injury",
-        "medicine",
-        "menstruation"
-      ]
+      "keyTerms": ["bleed", "blood donation", "drop of blood", "injury", "medicine", "menstruation"]
     },
     {
       "emoji": "💊",
@@ -10749,13 +9752,7 @@ export const emojidata = {
       "category": "Objects",
       "subcategory": "household",
       "codepoints": "1F9F4",
-      "keyTerms": [
-        "lotion",
-        "lotion bottle",
-        "moisturizer",
-        "shampoo",
-        "sunscreen"
-      ]
+      "keyTerms": ["lotion", "lotion bottle", "moisturizer", "shampoo", "sunscreen"]
     },
     {
       "emoji": "🧷",
@@ -10830,7 +9827,7 @@ export const emojidata = {
       "keyTerms": ["cigarette", "smoking"]
     },
     {
-      "emoji": "⚰",
+      "emoji": "⚰️",
       "name": "coffin",
       "category": "Objects",
       "subcategory": "other-object",
@@ -10838,7 +9835,7 @@ export const emojidata = {
       "keyTerms": ["coffin", "death"]
     },
     {
-      "emoji": "⚱",
+      "emoji": "⚱️",
       "name": "funeral urn",
       "category": "Objects",
       "subcategory": "other-object",
@@ -10960,7 +9957,7 @@ export const emojidata = {
       "keyTerms": ["baggage", "left luggage", "locker", "luggage"]
     },
     {
-      "emoji": "⚠",
+      "emoji": "⚠️",
       "name": "warning",
       "category": "Symbols",
       "subcategory": "warning",
@@ -10973,13 +9970,7 @@ export const emojidata = {
       "category": "Symbols",
       "subcategory": "warning",
       "codepoints": "1F6B8",
-      "keyTerms": [
-        "child",
-        "children crossing",
-        "crossing",
-        "pedestrian",
-        "traffic"
-      ]
+      "keyTerms": ["child", "children crossing", "crossing", "pedestrian", "traffic"]
     },
     {
       "emoji": "⛔",
@@ -11003,14 +9994,7 @@ export const emojidata = {
       "category": "Symbols",
       "subcategory": "warning",
       "codepoints": "1F6B3",
-      "keyTerms": [
-        "bicycle",
-        "bike",
-        "forbidden",
-        "no",
-        "no bicycles",
-        "prohibited"
-      ]
+      "keyTerms": ["bicycle", "bike", "forbidden", "no", "no bicycles", "prohibited"]
     },
     {
       "emoji": "🚭",
@@ -11026,14 +10010,7 @@ export const emojidata = {
       "category": "Symbols",
       "subcategory": "warning",
       "codepoints": "1F6AF",
-      "keyTerms": [
-        "forbidden",
-        "litter",
-        "no",
-        "no littering",
-        "not",
-        "prohibited"
-      ]
+      "keyTerms": ["forbidden", "litter", "no", "no littering", "not", "prohibited"]
     },
     {
       "emoji": "🚱",
@@ -11049,14 +10026,7 @@ export const emojidata = {
       "category": "Symbols",
       "subcategory": "warning",
       "codepoints": "1F6B7",
-      "keyTerms": [
-        "forbidden",
-        "no",
-        "no pedestrians",
-        "not",
-        "pedestrian",
-        "prohibited"
-      ]
+      "keyTerms": ["forbidden", "no", "no pedestrians", "not", "pedestrian", "prohibited"]
     },
     {
       "emoji": "📵",
@@ -11064,14 +10034,7 @@ export const emojidata = {
       "category": "Symbols",
       "subcategory": "warning",
       "codepoints": "1F4F5",
-      "keyTerms": [
-        "cell",
-        "forbidden",
-        "mobile",
-        "no",
-        "no mobile phones",
-        "phone"
-      ]
+      "keyTerms": ["cell", "forbidden", "mobile", "no", "no mobile phones", "phone"]
     },
     {
       "emoji": "🔞",
@@ -11079,33 +10042,26 @@ export const emojidata = {
       "category": "Symbols",
       "subcategory": "warning",
       "codepoints": "1F51E",
-      "keyTerms": [
-        "18",
-        "age restriction",
-        "eighteen",
-        "no one under eighteen",
-        "prohibited",
-        "underage"
-      ]
+      "keyTerms": ["18", "age restriction", "eighteen", "no one under eighteen", "prohibited", "underage"]
     },
     {
-      "emoji": "☢",
+      "emoji": "☢️",
       "name": "radioactive",
       "category": "Symbols",
       "subcategory": "warning",
-      "codepoints": 2622,
+      "codepoints": "2622",
       "keyTerms": ["radioactive", "sign"]
     },
     {
-      "emoji": "☣",
+      "emoji": "☣️",
       "name": "biohazard",
       "category": "Symbols",
       "subcategory": "warning",
-      "codepoints": 2623,
+      "codepoints": "2623",
       "keyTerms": ["biohazard", "sign"]
     },
     {
-      "emoji": "⬆",
+      "emoji": "⬆️",
       "name": "up arrow",
       "category": "Symbols",
       "subcategory": "arrow",
@@ -11113,21 +10069,15 @@ export const emojidata = {
       "keyTerms": ["arrow", "cardinal", "direction", "north", "up arrow"]
     },
     {
-      "emoji": "↗",
+      "emoji": "↗️",
       "name": "up-right arrow",
       "category": "Symbols",
       "subcategory": "arrow",
-      "codepoints": 2197,
-      "keyTerms": [
-        "arrow",
-        "direction",
-        "intercardinal",
-        "northeast",
-        "up-right arrow"
-      ]
+      "codepoints": "2197",
+      "keyTerms": ["arrow", "direction", "intercardinal", "northeast", "up-right arrow"]
     },
     {
-      "emoji": "➡",
+      "emoji": "➡️",
       "name": "right arrow",
       "category": "Symbols",
       "subcategory": "arrow",
@@ -11135,21 +10085,15 @@ export const emojidata = {
       "keyTerms": ["arrow", "cardinal", "direction", "east", "right arrow"]
     },
     {
-      "emoji": "↘",
+      "emoji": "↘️",
       "name": "down-right arrow",
       "category": "Symbols",
       "subcategory": "arrow",
-      "codepoints": 2198,
-      "keyTerms": [
-        "arrow",
-        "direction",
-        "down-right arrow",
-        "intercardinal",
-        "southeast"
-      ]
+      "codepoints": "2198",
+      "keyTerms": ["arrow", "direction", "down-right arrow", "intercardinal", "southeast"]
     },
     {
-      "emoji": "⬇",
+      "emoji": "⬇️",
       "name": "down arrow",
       "category": "Symbols",
       "subcategory": "arrow",
@@ -11157,21 +10101,15 @@ export const emojidata = {
       "keyTerms": ["arrow", "cardinal", "direction", "down", "south"]
     },
     {
-      "emoji": "↙",
+      "emoji": "↙️",
       "name": "down-left arrow",
       "category": "Symbols",
       "subcategory": "arrow",
-      "codepoints": 2199,
-      "keyTerms": [
-        "arrow",
-        "direction",
-        "down-left arrow",
-        "intercardinal",
-        "southwest"
-      ]
+      "codepoints": "2199",
+      "keyTerms": ["arrow", "direction", "down-left arrow", "intercardinal", "southwest"]
     },
     {
-      "emoji": "⬅",
+      "emoji": "⬅️",
       "name": "left arrow",
       "category": "Symbols",
       "subcategory": "arrow",
@@ -11179,37 +10117,31 @@ export const emojidata = {
       "keyTerms": ["arrow", "cardinal", "direction", "left arrow", "west"]
     },
     {
-      "emoji": "↖",
+      "emoji": "↖️",
       "name": "up-left arrow",
       "category": "Symbols",
       "subcategory": "arrow",
-      "codepoints": 2196,
-      "keyTerms": [
-        "arrow",
-        "direction",
-        "intercardinal",
-        "northwest",
-        "up-left arrow"
-      ]
+      "codepoints": "2196",
+      "keyTerms": ["arrow", "direction", "intercardinal", "northwest", "up-left arrow"]
     },
     {
-      "emoji": "↕",
+      "emoji": "↕️",
       "name": "up-down arrow",
       "category": "Symbols",
       "subcategory": "arrow",
-      "codepoints": 2195,
+      "codepoints": "2195",
       "keyTerms": ["arrow", "up-down arrow"]
     },
     {
-      "emoji": "↔",
+      "emoji": "↔️",
       "name": "left-right arrow",
       "category": "Symbols",
       "subcategory": "arrow",
-      "codepoints": 2194,
+      "codepoints": "2194",
       "keyTerms": ["arrow", "left-right arrow"]
     },
     {
-      "emoji": "↩",
+      "emoji": "↩️",
       "name": "right arrow curving left",
       "category": "Symbols",
       "subcategory": "arrow",
@@ -11217,7 +10149,7 @@ export const emojidata = {
       "keyTerms": ["arrow", "right arrow curving left"]
     },
     {
-      "emoji": "↪",
+      "emoji": "↪️",
       "name": "left arrow curving right",
       "category": "Symbols",
       "subcategory": "arrow",
@@ -11225,19 +10157,19 @@ export const emojidata = {
       "keyTerms": ["arrow", "left arrow curving right"]
     },
     {
-      "emoji": "⤴",
+      "emoji": "⤴️",
       "name": "right arrow curving up",
       "category": "Symbols",
       "subcategory": "arrow",
-      "codepoints": 2934,
+      "codepoints": "2934",
       "keyTerms": ["arrow", "right arrow curving up"]
     },
     {
-      "emoji": "⤵",
+      "emoji": "⤵️",
       "name": "right arrow curving down",
       "category": "Symbols",
       "subcategory": "arrow",
-      "codepoints": 2935,
+      "codepoints": "2935",
       "keyTerms": ["arrow", "down", "right arrow curving down"]
     },
     {
@@ -11254,13 +10186,7 @@ export const emojidata = {
       "category": "Symbols",
       "subcategory": "arrow",
       "codepoints": "1F504",
-      "keyTerms": [
-        "anticlockwise",
-        "arrow",
-        "counterclockwise",
-        "counterclockwise arrows button",
-        "withershins"
-      ]
+      "keyTerms": ["anticlockwise", "arrow", "counterclockwise", "counterclockwise arrows button", "withershins"]
     },
     {
       "emoji": "🔙",
@@ -11311,7 +10237,7 @@ export const emojidata = {
       "keyTerms": ["place of worship", "religion", "worship"]
     },
     {
-      "emoji": "⚛",
+      "emoji": "⚛️",
       "name": "atom symbol",
       "category": "Symbols",
       "subcategory": "religion",
@@ -11327,30 +10253,23 @@ export const emojidata = {
       "keyTerms": ["Hindu", "om", "religion"]
     },
     {
-      "emoji": "✡",
+      "emoji": "✡️",
       "name": "star of David",
       "category": "Symbols",
       "subcategory": "religion",
-      "codepoints": 2721,
-      "keyTerms": [
-        "David",
-        "Jew",
-        "Jewish",
-        "religion",
-        "star",
-        "star of David"
-      ]
+      "codepoints": "2721",
+      "keyTerms": ["David", "Jew", "Jewish", "religion", "star", "star of David"]
     },
     {
-      "emoji": "☸",
+      "emoji": "☸️",
       "name": "wheel of dharma",
       "category": "Symbols",
       "subcategory": "religion",
-      "codepoints": 2638,
+      "codepoints": "2638",
       "keyTerms": ["Buddhist", "dharma", "religion", "wheel", "wheel of dharma"]
     },
     {
-      "emoji": "☯",
+      "emoji": "☯️",
       "name": "yin yang",
       "category": "Symbols",
       "subcategory": "religion",
@@ -11358,7 +10277,7 @@ export const emojidata = {
       "keyTerms": ["religion", "tao", "taoist", "yang", "yin"]
     },
     {
-      "emoji": "✝",
+      "emoji": "✝️",
       "name": "latin cross",
       "category": "Symbols",
       "subcategory": "religion",
@@ -11366,15 +10285,15 @@ export const emojidata = {
       "keyTerms": ["Christian", "cross", "latin cross", "religion"]
     },
     {
-      "emoji": "☦",
+      "emoji": "☦️",
       "name": "orthodox cross",
       "category": "Symbols",
       "subcategory": "religion",
-      "codepoints": 2626,
+      "codepoints": "2626",
       "keyTerms": ["Christian", "cross", "orthodox cross", "religion"]
     },
     {
-      "emoji": "☪",
+      "emoji": "☪️",
       "name": "star and crescent",
       "category": "Symbols",
       "subcategory": "religion",
@@ -11382,7 +10301,7 @@ export const emojidata = {
       "keyTerms": ["islam", "Muslim", "religion", "star and crescent"]
     },
     {
-      "emoji": "☮",
+      "emoji": "☮️",
       "name": "peace symbol",
       "category": "Symbols",
       "subcategory": "religion",
@@ -11410,7 +10329,7 @@ export const emojidata = {
       "name": "Aries",
       "category": "Symbols",
       "subcategory": "zodiac",
-      "codepoints": 2648,
+      "codepoints": "2648",
       "keyTerms": ["Aries", "ram", "zodiac"]
     },
     {
@@ -11418,7 +10337,7 @@ export const emojidata = {
       "name": "Taurus",
       "category": "Symbols",
       "subcategory": "zodiac",
-      "codepoints": 2649,
+      "codepoints": "2649",
       "keyTerms": ["bull", "ox", "Taurus", "zodiac"]
     },
     {
@@ -11474,7 +10393,7 @@ export const emojidata = {
       "name": "Sagittarius",
       "category": "Symbols",
       "subcategory": "zodiac",
-      "codepoints": 2650,
+      "codepoints": "2650",
       "keyTerms": ["archer", "Sagittarius", "zodiac"]
     },
     {
@@ -11482,7 +10401,7 @@ export const emojidata = {
       "name": "Capricorn",
       "category": "Symbols",
       "subcategory": "zodiac",
-      "codepoints": 2651,
+      "codepoints": "2651",
       "keyTerms": ["Capricorn", "goat", "zodiac"]
     },
     {
@@ -11490,7 +10409,7 @@ export const emojidata = {
       "name": "Aquarius",
       "category": "Symbols",
       "subcategory": "zodiac",
-      "codepoints": 2652,
+      "codepoints": "2652",
       "keyTerms": ["Aquarius", "bearer", "water", "zodiac"]
     },
     {
@@ -11498,7 +10417,7 @@ export const emojidata = {
       "name": "Pisces",
       "category": "Symbols",
       "subcategory": "zodiac",
-      "codepoints": 2653,
+      "codepoints": "2653",
       "keyTerms": ["fish", "Pisces", "zodiac"]
     },
     {
@@ -11534,7 +10453,7 @@ export const emojidata = {
       "keyTerms": ["arrow", "clockwise", "once", "repeat single button"]
     },
     {
-      "emoji": "▶",
+      "emoji": "▶️",
       "name": "play button",
       "category": "Symbols",
       "subcategory": "av-symbol",
@@ -11546,7 +10465,7 @@ export const emojidata = {
       "name": "fast-forward button",
       "category": "Symbols",
       "subcategory": "av-symbol",
-      "codepoints": 23000000000,
+      "codepoints": "23ED",
       "keyTerms": ["arrow", "double", "fast", "fast-forward button", "forward"]
     },
     {
@@ -11555,13 +10474,7 @@ export const emojidata = {
       "category": "Symbols",
       "subcategory": "av-symbol",
       "codepoints": "23ED",
-      "keyTerms": [
-        "arrow",
-        "next scene",
-        "next track",
-        "next track button",
-        "triangle"
-      ]
+      "keyTerms": ["arrow", "next scene", "next track", "next track button", "triangle"]
     },
     {
       "emoji": "⏯",
@@ -11569,17 +10482,10 @@ export const emojidata = {
       "category": "Symbols",
       "subcategory": "av-symbol",
       "codepoints": "23EF",
-      "keyTerms": [
-        "arrow",
-        "pause",
-        "play",
-        "play or pause button",
-        "right",
-        "triangle"
-      ]
+      "keyTerms": ["arrow", "pause", "play", "play or pause button", "right", "triangle"]
     },
     {
-      "emoji": "◀",
+      "emoji": "◀️",
       "name": "reverse button",
       "category": "Symbols",
       "subcategory": "av-symbol",
@@ -11600,13 +10506,7 @@ export const emojidata = {
       "category": "Symbols",
       "subcategory": "av-symbol",
       "codepoints": "23EE",
-      "keyTerms": [
-        "arrow",
-        "last track button",
-        "previous scene",
-        "previous track",
-        "triangle"
-      ]
+      "keyTerms": ["arrow", "last track button", "previous scene", "previous track", "triangle"]
     },
     {
       "emoji": "🔼",
@@ -11665,7 +10565,7 @@ export const emojidata = {
       "keyTerms": ["circle", "record", "record button"]
     },
     {
-      "emoji": "⏏",
+      "emoji": "⏏️",
       "name": "eject button",
       "category": "Symbols",
       "subcategory": "av-symbol",
@@ -11721,31 +10621,55 @@ export const emojidata = {
       "keyTerms": ["cell", "mobile", "off", "phone", "telephone"]
     },
     {
-      "emoji": "♀",
+      "emoji": "♀️",
       "name": "female sign",
       "category": "Symbols",
       "subcategory": "gender",
-      "codepoints": 2640,
+      "codepoints": "2640",
       "keyTerms": ["female sign", "woman"]
     },
     {
-      "emoji": "♂",
+      "emoji": "♂️",
       "name": "male sign",
       "category": "Symbols",
       "subcategory": "gender",
-      "codepoints": 2642,
+      "codepoints": "2642",
       "keyTerms": ["male sign", "man"]
     },
     {
-      "emoji": "⚕",
-      "name": "medical symbol",
+      "emoji": "✖️",
+      "name": "multiplication sign",
       "category": "Symbols",
       "subcategory": "other-symbol",
-      "codepoints": 2695,
-      "keyTerms": ["aesculapius", "medical symbol", "medicine", "staff"]
+      "codepoints": "2716",
+      "keyTerms": ["×", "cancel", "multiplication", "multiply", "sign", "x"]
     },
     {
-      "emoji": "♾",
+      "emoji": "➕",
+      "name": "plus sign",
+      "category": "Symbols",
+      "subcategory": "other-symbol",
+      "codepoints": "2795",
+      "keyTerms": ["+", "math", "plus", "sign"]
+    },
+    {
+      "emoji": "➖",
+      "name": "minus sign",
+      "category": "Symbols",
+      "subcategory": "other-symbol",
+      "codepoints": "2796",
+      "keyTerms": ["-", "−", "math", "minus", "sign"]
+    },
+    {
+      "emoji": "➗",
+      "name": "division sign",
+      "category": "Symbols",
+      "subcategory": "other-symbol",
+      "codepoints": "2797",
+      "keyTerms": ["÷", "division", "math", "sign"]
+    },
+    {
+      "emoji": "♾️",
       "name": "infinity",
       "category": "Symbols",
       "subcategory": "other-symbol",
@@ -11753,7 +10677,15 @@ export const emojidata = {
       "keyTerms": ["forever", "infinity", "unbounded", "universal"]
     },
     {
-      "emoji": "♻",
+      "emoji": "⚕️",
+      "name": "medical symbol",
+      "category": "Symbols",
+      "subcategory": "other-symbol",
+      "codepoints": "2695",
+      "keyTerms": ["aesculapius", "medical symbol", "medicine", "staff"]
+    },
+    {
+      "emoji": "♻️",
       "name": "recycling symbol",
       "category": "Symbols",
       "subcategory": "other-symbol",
@@ -11761,7 +10693,7 @@ export const emojidata = {
       "keyTerms": ["recycle", "recycling symbol"]
     },
     {
-      "emoji": "⚜",
+      "emoji": "⚜️",
       "name": "fleur-de-lis",
       "category": "Symbols",
       "subcategory": "other-symbol",
@@ -11790,13 +10722,7 @@ export const emojidata = {
       "category": "Symbols",
       "subcategory": "other-symbol",
       "codepoints": "1F530",
-      "keyTerms": [
-        "beginner",
-        "chevron",
-        "Japanese",
-        "Japanese symbol for beginner",
-        "leaf"
-      ]
+      "keyTerms": ["beginner", "chevron", "Japanese", "Japanese symbol for beginner", "leaf"]
     },
     {
       "emoji": "⭕",
@@ -11811,32 +10737,24 @@ export const emojidata = {
       "name": "check mark button",
       "category": "Symbols",
       "subcategory": "other-symbol",
-      "codepoints": 2705,
+      "codepoints": "2705",
       "keyTerms": ["✓", "button", "check", "mark"]
     },
     {
-      "emoji": "☑",
+      "emoji": "☑️",
       "name": "check box with check",
       "category": "Symbols",
       "subcategory": "other-symbol",
-      "codepoints": 2611,
+      "codepoints": "2611",
       "keyTerms": ["✓", "box", "check", "check box with check"]
     },
     {
-      "emoji": "✔",
+      "emoji": "✔️",
       "name": "check mark",
       "category": "Symbols",
       "subcategory": "other-symbol",
-      "codepoints": 2714,
+      "codepoints": "2714",
       "keyTerms": ["✓", "check", "mark"]
-    },
-    {
-      "emoji": "✖",
-      "name": "multiplication sign",
-      "category": "Symbols",
-      "subcategory": "other-symbol",
-      "codepoints": 2716,
-      "keyTerms": ["×", "cancel", "multiplication", "multiply", "sign", "x"]
     },
     {
       "emoji": "❌",
@@ -11844,15 +10762,7 @@ export const emojidata = {
       "category": "Symbols",
       "subcategory": "other-symbol",
       "codepoints": "274C",
-      "keyTerms": [
-        "×",
-        "cancel",
-        "cross",
-        "mark",
-        "multiplication",
-        "multiply",
-        "x"
-      ]
+      "keyTerms": ["×", "cancel", "cross", "mark", "multiplication", "multiply", "x"]
     },
     {
       "emoji": "❎",
@@ -11861,30 +10771,6 @@ export const emojidata = {
       "subcategory": "other-symbol",
       "codepoints": "274E",
       "keyTerms": ["×", "cross mark button", "mark", "square", "x"]
-    },
-    {
-      "emoji": "➕",
-      "name": "plus sign",
-      "category": "Symbols",
-      "subcategory": "other-symbol",
-      "codepoints": 2795,
-      "keyTerms": ["+", "math", "plus", "sign"]
-    },
-    {
-      "emoji": "➖",
-      "name": "minus sign",
-      "category": "Symbols",
-      "subcategory": "other-symbol",
-      "codepoints": 2796,
-      "keyTerms": ["-", "−", "math", "minus", "sign"]
-    },
-    {
-      "emoji": "➗",
-      "name": "division sign",
-      "category": "Symbols",
-      "subcategory": "other-symbol",
-      "codepoints": 2797,
-      "keyTerms": ["÷", "division", "math", "sign"]
     },
     {
       "emoji": "➰",
@@ -11903,7 +10789,7 @@ export const emojidata = {
       "keyTerms": ["curl", "double", "double curly loop", "loop"]
     },
     {
-      "emoji": "〽",
+      "emoji": "〽️",
       "name": "part alternation mark",
       "category": "Symbols",
       "subcategory": "other-symbol",
@@ -11911,117 +10797,31 @@ export const emojidata = {
       "keyTerms": ["mark", "part", "part alternation mark"]
     },
     {
-      "emoji": "✳",
+      "emoji": "✳️",
       "name": "eight-spoked asterisk",
       "category": "Symbols",
       "subcategory": "other-symbol",
-      "codepoints": 2733,
+      "codepoints": "2733",
       "keyTerms": ["*", "asterisk", "eight-spoked asterisk"]
     },
     {
-      "emoji": "✴",
+      "emoji": "✴️",
       "name": "eight-pointed star",
       "category": "Symbols",
       "subcategory": "other-symbol",
-      "codepoints": 2734,
+      "codepoints": "2734",
       "keyTerms": ["*", "eight-pointed star", "star"]
     },
     {
-      "emoji": "❇",
+      "emoji": "❇️",
       "name": "sparkle",
       "category": "Symbols",
       "subcategory": "other-symbol",
-      "codepoints": 2747,
+      "codepoints": "2747",
       "keyTerms": ["*", "sparkle"]
     },
     {
-      "emoji": "‼",
-      "name": "double exclamation mark",
-      "category": "Symbols",
-      "subcategory": "other-symbol",
-      "codepoints": "203C",
-      "keyTerms": [
-        "!",
-        "!!",
-        "bangbang",
-        "double exclamation mark",
-        "exclamation",
-        "mark"
-      ]
-    },
-    {
-      "emoji": "⁉",
-      "name": "exclamation question mark",
-      "category": "Symbols",
-      "subcategory": "other-symbol",
-      "codepoints": 2049,
-      "keyTerms": [
-        "!",
-        "!?",
-        "?",
-        "exclamation",
-        "interrobang",
-        "mark",
-        "punctuation",
-        "question"
-      ]
-    },
-    {
-      "emoji": "❓",
-      "name": "question mark",
-      "category": "Symbols",
-      "subcategory": "other-symbol",
-      "codepoints": 2753,
-      "keyTerms": ["?", "mark", "punctuation", "question"]
-    },
-    {
-      "emoji": "❔",
-      "name": "white question mark",
-      "category": "Symbols",
-      "subcategory": "other-symbol",
-      "codepoints": 2754,
-      "keyTerms": [
-        "?",
-        "mark",
-        "outlined",
-        "punctuation",
-        "question",
-        "white question mark"
-      ]
-    },
-    {
-      "emoji": "❕",
-      "name": "white exclamation mark",
-      "category": "Symbols",
-      "subcategory": "other-symbol",
-      "codepoints": 2755,
-      "keyTerms": [
-        "!",
-        "exclamation",
-        "mark",
-        "outlined",
-        "punctuation",
-        "white exclamation mark"
-      ]
-    },
-    {
-      "emoji": "❗",
-      "name": "exclamation mark",
-      "category": "Symbols",
-      "subcategory": "other-symbol",
-      "codepoints": 2757,
-      "keyTerms": ["!", "exclamation", "mark", "punctuation"]
-    },
-    {
-      "emoji": "〰",
-      "name": "wavy dash",
-      "category": "Symbols",
-      "subcategory": "other-symbol",
-      "codepoints": 3030,
-      "keyTerms": ["dash", "punctuation", "wavy"]
-    },
-    {
-      "emoji": "©",
+      "emoji": "©️",
       "name": "copyright",
       "category": "Symbols",
       "subcategory": "other-symbol",
@@ -12029,7 +10829,7 @@ export const emojidata = {
       "keyTerms": ["c", "copyright"]
     },
     {
-      "emoji": "®",
+      "emoji": "®️",
       "name": "registered",
       "category": "Symbols",
       "subcategory": "other-symbol",
@@ -12037,12 +10837,68 @@ export const emojidata = {
       "keyTerms": ["r", "registered"]
     },
     {
-      "emoji": "™",
+      "emoji": "™️",
       "name": "trade mark",
       "category": "Symbols",
       "subcategory": "other-symbol",
-      "codepoints": 2122,
+      "codepoints": "2122",
       "keyTerms": ["mark", "tm", "trade mark", "trademark"]
+    },
+    {
+      "emoji": "‼️",
+      "name": "double exclamation mark",
+      "category": "Symbols",
+      "subcategory": "other-symbol",
+      "codepoints": "203C",
+      "keyTerms": ["!", "!!", "bangbang", "double exclamation mark", "exclamation", "mark"]
+    },
+    {
+      "emoji": "⁉️",
+      "name": "exclamation question mark",
+      "category": "Symbols",
+      "subcategory": "other-symbol",
+      "codepoints": "2049",
+      "keyTerms": ["!", "!?", "?", "exclamation", "interrobang", "mark", "punctuation", "question"]
+    },
+    {
+      "emoji": "❓",
+      "name": "question mark",
+      "category": "Symbols",
+      "subcategory": "other-symbol",
+      "codepoints": "2753",
+      "keyTerms": ["?", "mark", "punctuation", "question"]
+    },
+    {
+      "emoji": "❔",
+      "name": "white question mark",
+      "category": "Symbols",
+      "subcategory": "other-symbol",
+      "codepoints": "2754",
+      "keyTerms": ["?", "mark", "outlined", "punctuation", "question", "white question mark"]
+    },
+    {
+      "emoji": "❕",
+      "name": "white exclamation mark",
+      "category": "Symbols",
+      "subcategory": "other-symbol",
+      "codepoints": "2755",
+      "keyTerms": ["!", "exclamation", "mark", "outlined", "punctuation", "white exclamation mark"]
+    },
+    {
+      "emoji": "❗",
+      "name": "exclamation mark",
+      "category": "Symbols",
+      "subcategory": "other-symbol",
+      "codepoints": "2757",
+      "keyTerms": ["!", "exclamation", "mark", "punctuation"]
+    },
+    {
+      "emoji": "〰️",
+      "name": "wavy dash",
+      "category": "Symbols",
+      "subcategory": "other-symbol",
+      "codepoints": "3030",
+      "keyTerms": ["dash", "punctuation", "wavy"]
     },
     {
       "emoji": "#️⃣",
@@ -12050,7 +10906,7 @@ export const emojidata = {
       "category": "Symbols",
       "subcategory": "keycap",
       "codepoints": "0023 FE0F 20E3",
-      "keyTerms": ["keycap"]
+      "keyTerms": ["keycap", "#"]
     },
     {
       "emoji": "*️⃣",
@@ -12058,7 +10914,7 @@ export const emojidata = {
       "category": "Symbols",
       "subcategory": "keycap",
       "codepoints": "002A FE0F 20E3",
-      "keyTerms": ["keycap"]
+      "keyTerms": ["keycap", "*"]
     },
     {
       "emoji": "0️⃣",
@@ -12066,7 +10922,7 @@ export const emojidata = {
       "category": "Symbols",
       "subcategory": "keycap",
       "codepoints": "0030 FE0F 20E3",
-      "keyTerms": ["keycap"]
+      "keyTerms": ["keycap", "0"]
     },
     {
       "emoji": "1️⃣",
@@ -12074,7 +10930,7 @@ export const emojidata = {
       "category": "Symbols",
       "subcategory": "keycap",
       "codepoints": "0031 FE0F 20E3",
-      "keyTerms": ["keycap"]
+      "keyTerms": ["keycap", "1"]
     },
     {
       "emoji": "2️⃣",
@@ -12082,7 +10938,7 @@ export const emojidata = {
       "category": "Symbols",
       "subcategory": "keycap",
       "codepoints": "0032 FE0F 20E3",
-      "keyTerms": ["keycap"]
+      "keyTerms": ["keycap", "2"]
     },
     {
       "emoji": "3️⃣",
@@ -12090,7 +10946,7 @@ export const emojidata = {
       "category": "Symbols",
       "subcategory": "keycap",
       "codepoints": "0033 FE0F 20E3",
-      "keyTerms": ["keycap"]
+      "keyTerms": ["keycap", "3"]
     },
     {
       "emoji": "4️⃣",
@@ -12098,7 +10954,7 @@ export const emojidata = {
       "category": "Symbols",
       "subcategory": "keycap",
       "codepoints": "0034 FE0F 20E3",
-      "keyTerms": ["keycap"]
+      "keyTerms": ["keycap", "4"]
     },
     {
       "emoji": "5️⃣",
@@ -12106,7 +10962,7 @@ export const emojidata = {
       "category": "Symbols",
       "subcategory": "keycap",
       "codepoints": "0035 FE0F 20E3",
-      "keyTerms": ["keycap"]
+      "keyTerms": ["keycap", "5"]
     },
     {
       "emoji": "6️⃣",
@@ -12114,7 +10970,7 @@ export const emojidata = {
       "category": "Symbols",
       "subcategory": "keycap",
       "codepoints": "0036 FE0F 20E3",
-      "keyTerms": ["keycap"]
+      "keyTerms": ["keycap", "6"]
     },
     {
       "emoji": "7️⃣",
@@ -12122,7 +10978,7 @@ export const emojidata = {
       "category": "Symbols",
       "subcategory": "keycap",
       "codepoints": "0037 FE0F 20E3",
-      "keyTerms": ["keycap"]
+      "keyTerms": ["keycap", "7"]
     },
     {
       "emoji": "8️⃣",
@@ -12130,7 +10986,7 @@ export const emojidata = {
       "category": "Symbols",
       "subcategory": "keycap",
       "codepoints": "0038 FE0F 20E3",
-      "keyTerms": ["keycap"]
+      "keyTerms": ["keycap", "8"]
     },
     {
       "emoji": "9️⃣",
@@ -12138,7 +10994,7 @@ export const emojidata = {
       "category": "Symbols",
       "subcategory": "keycap",
       "codepoints": "0039 FE0F 20E3",
-      "keyTerms": ["keycap"]
+      "keyTerms": ["keycap", "9"]
     },
     {
       "emoji": "🔟",
@@ -12146,7 +11002,7 @@ export const emojidata = {
       "category": "Symbols",
       "subcategory": "keycap",
       "codepoints": "1F51F",
-      "keyTerms": ["keycap"]
+      "keyTerms": ["keycap", "10"]
     },
     {
       "emoji": "🔠",
@@ -12178,7 +11034,7 @@ export const emojidata = {
       "category": "Symbols",
       "subcategory": "alphanum",
       "codepoints": "1F523",
-      "keyTerms": ["〒♪&amp;%", "input", "input symbols"]
+      "keyTerms": ["〒♪&%", "input", "input symbols"]
     },
     {
       "emoji": "🔤",
@@ -12189,7 +11045,7 @@ export const emojidata = {
       "keyTerms": ["abc", "alphabet", "input", "latin", "letters"]
     },
     {
-      "emoji": "🅰",
+      "emoji": "🅰️",
       "name": "A button (blood type)",
       "category": "Symbols",
       "subcategory": "alphanum",
@@ -12205,7 +11061,7 @@ export const emojidata = {
       "keyTerms": ["ab", "AB button (blood type)", "blood type"]
     },
     {
-      "emoji": "🅱",
+      "emoji": "🅱️",
       "name": "B button (blood type)",
       "category": "Symbols",
       "subcategory": "alphanum",
@@ -12237,11 +11093,11 @@ export const emojidata = {
       "keyTerms": ["free", "FREE button"]
     },
     {
-      "emoji": "ℹ",
+      "emoji": "ℹ️",
       "name": "information",
       "category": "Symbols",
       "subcategory": "alphanum",
-      "codepoints": 2139,
+      "codepoints": "2139",
       "keyTerms": ["i", "information"]
     },
     {
@@ -12253,7 +11109,7 @@ export const emojidata = {
       "keyTerms": ["id", "ID button", "identity"]
     },
     {
-      "emoji": "Ⓜ",
+      "emoji": "Ⓜ️",
       "name": "circled M",
       "category": "Symbols",
       "subcategory": "alphanum",
@@ -12277,7 +11133,7 @@ export const emojidata = {
       "keyTerms": ["ng", "NG button"]
     },
     {
-      "emoji": "🅾",
+      "emoji": "🅾️",
       "name": "O button (blood type)",
       "category": "Symbols",
       "subcategory": "alphanum",
@@ -12293,7 +11149,7 @@ export const emojidata = {
       "keyTerms": ["OK", "OK button"]
     },
     {
-      "emoji": "🅿",
+      "emoji": "🅿️",
       "name": "P button",
       "category": "Symbols",
       "subcategory": "alphanum",
@@ -12330,41 +11186,23 @@ export const emojidata = {
       "category": "Symbols",
       "subcategory": "alphanum",
       "codepoints": "1F201",
-      "keyTerms": [
-        "“here”",
-        "Japanese",
-        "Japanese “here” button",
-        "katakana",
-        "ココ"
-      ]
+      "keyTerms": ["“here”", "Japanese", "Japanese “here” button", "katakana", "ココ"]
     },
     {
-      "emoji": "🈂",
+      "emoji": "🈂️",
       "name": "Japanese “service charge” button",
       "category": "Symbols",
       "subcategory": "alphanum",
       "codepoints": "1F202",
-      "keyTerms": [
-        "“service charge”",
-        "Japanese",
-        "Japanese “service charge” button",
-        "katakana",
-        "サ"
-      ]
+      "keyTerms": ["“service charge”", "Japanese", "Japanese “service charge” button", "katakana", "サ"]
     },
     {
-      "emoji": "🈷",
+      "emoji": "🈷️",
       "name": "Japanese “monthly amount” button",
       "category": "Symbols",
       "subcategory": "alphanum",
       "codepoints": "1F237",
-      "keyTerms": [
-        "“monthly amount”",
-        "ideograph",
-        "Japanese",
-        "Japanese “monthly amount” button",
-        "月"
-      ]
+      "keyTerms": ["“monthly amount”", "ideograph", "Japanese", "Japanese “monthly amount” button", "月"]
     },
     {
       "emoji": "🈶",
@@ -12372,13 +11210,7 @@ export const emojidata = {
       "category": "Symbols",
       "subcategory": "alphanum",
       "codepoints": "1F236",
-      "keyTerms": [
-        "“not free of charge”",
-        "ideograph",
-        "Japanese",
-        "Japanese “not free of charge” button",
-        "有"
-      ]
+      "keyTerms": ["“not free of charge”", "ideograph", "Japanese", "Japanese “not free of charge” button", "有"]
     },
     {
       "emoji": "🈯",
@@ -12386,13 +11218,7 @@ export const emojidata = {
       "category": "Symbols",
       "subcategory": "alphanum",
       "codepoints": "1F22F",
-      "keyTerms": [
-        "“reserved”",
-        "ideograph",
-        "Japanese",
-        "Japanese “reserved” button",
-        "指"
-      ]
+      "keyTerms": ["“reserved”", "ideograph", "Japanese", "Japanese “reserved” button", "指"]
     },
     {
       "emoji": "🉐",
@@ -12400,13 +11226,7 @@ export const emojidata = {
       "category": "Symbols",
       "subcategory": "alphanum",
       "codepoints": "1F250",
-      "keyTerms": [
-        "“bargain”",
-        "ideograph",
-        "Japanese",
-        "Japanese “bargain” button",
-        "得"
-      ]
+      "keyTerms": ["“bargain”", "ideograph", "Japanese", "Japanese “bargain” button", "得"]
     },
     {
       "emoji": "🈹",
@@ -12414,13 +11234,7 @@ export const emojidata = {
       "category": "Symbols",
       "subcategory": "alphanum",
       "codepoints": "1F239",
-      "keyTerms": [
-        "“discount”",
-        "ideograph",
-        "Japanese",
-        "Japanese “discount” button",
-        "割"
-      ]
+      "keyTerms": ["“discount”", "ideograph", "Japanese", "Japanese “discount” button", "割"]
     },
     {
       "emoji": "🈚",
@@ -12428,13 +11242,7 @@ export const emojidata = {
       "category": "Symbols",
       "subcategory": "alphanum",
       "codepoints": "1F21A",
-      "keyTerms": [
-        "“free of charge”",
-        "ideograph",
-        "Japanese",
-        "Japanese “free of charge” button",
-        "無"
-      ]
+      "keyTerms": ["“free of charge”", "ideograph", "Japanese", "Japanese “free of charge” button", "無"]
     },
     {
       "emoji": "🈲",
@@ -12442,13 +11250,7 @@ export const emojidata = {
       "category": "Symbols",
       "subcategory": "alphanum",
       "codepoints": "1F232",
-      "keyTerms": [
-        "“prohibited”",
-        "ideograph",
-        "Japanese",
-        "Japanese “prohibited” button",
-        "禁"
-      ]
+      "keyTerms": ["“prohibited”", "ideograph", "Japanese", "Japanese “prohibited” button", "禁"]
     },
     {
       "emoji": "🉑",
@@ -12456,13 +11258,7 @@ export const emojidata = {
       "category": "Symbols",
       "subcategory": "alphanum",
       "codepoints": "1F251",
-      "keyTerms": [
-        "“acceptable”",
-        "ideograph",
-        "Japanese",
-        "Japanese “acceptable” button",
-        "可"
-      ]
+      "keyTerms": ["“acceptable”", "ideograph", "Japanese", "Japanese “acceptable” button", "可"]
     },
     {
       "emoji": "🈸",
@@ -12470,13 +11266,7 @@ export const emojidata = {
       "category": "Symbols",
       "subcategory": "alphanum",
       "codepoints": "1F238",
-      "keyTerms": [
-        "“application”",
-        "ideograph",
-        "Japanese",
-        "Japanese “application” button",
-        "申"
-      ]
+      "keyTerms": ["“application”", "ideograph", "Japanese", "Japanese “application” button", "申"]
     },
     {
       "emoji": "🈴",
@@ -12484,13 +11274,7 @@ export const emojidata = {
       "category": "Symbols",
       "subcategory": "alphanum",
       "codepoints": "1F234",
-      "keyTerms": [
-        "“passing grade”",
-        "ideograph",
-        "Japanese",
-        "Japanese “passing grade” button",
-        "合"
-      ]
+      "keyTerms": ["“passing grade”", "ideograph", "Japanese", "Japanese “passing grade” button", "合"]
     },
     {
       "emoji": "🈳",
@@ -12498,41 +11282,23 @@ export const emojidata = {
       "category": "Symbols",
       "subcategory": "alphanum",
       "codepoints": "1F233",
-      "keyTerms": [
-        "“vacancy”",
-        "ideograph",
-        "Japanese",
-        "Japanese “vacancy” button",
-        "空"
-      ]
+      "keyTerms": ["“vacancy”", "ideograph", "Japanese", "Japanese “vacancy” button", "空"]
     },
     {
-      "emoji": "㊗",
+      "emoji": "㊗️",
       "name": "Japanese “congratulations” button",
       "category": "Symbols",
       "subcategory": "alphanum",
-      "codepoints": 3297,
-      "keyTerms": [
-        "“congratulations”",
-        "ideograph",
-        "Japanese",
-        "Japanese “congratulations” button",
-        "祝"
-      ]
+      "codepoints": "3297",
+      "keyTerms": ["“congratulations”", "ideograph", "Japanese", "Japanese “congratulations” button", "祝"]
     },
     {
-      "emoji": "㊙",
+      "emoji": "㊙️",
       "name": "Japanese “secret” button",
       "category": "Symbols",
       "subcategory": "alphanum",
-      "codepoints": 3299,
-      "keyTerms": [
-        "“secret”",
-        "ideograph",
-        "Japanese",
-        "Japanese “secret” button",
-        "秘"
-      ]
+      "codepoints": "3299",
+      "keyTerms": ["“secret”", "ideograph", "Japanese", "Japanese “secret” button", "秘"]
     },
     {
       "emoji": "🈺",
@@ -12540,13 +11306,7 @@ export const emojidata = {
       "category": "Symbols",
       "subcategory": "alphanum",
       "codepoints": "1F23A",
-      "keyTerms": [
-        "“open for business”",
-        "ideograph",
-        "Japanese",
-        "Japanese “open for business” button",
-        "営"
-      ]
+      "keyTerms": ["“open for business”", "ideograph", "Japanese", "Japanese “open for business” button", "営"]
     },
     {
       "emoji": "🈵",
@@ -12554,13 +11314,7 @@ export const emojidata = {
       "category": "Symbols",
       "subcategory": "alphanum",
       "codepoints": "1F235",
-      "keyTerms": [
-        "“no vacancy”",
-        "ideograph",
-        "Japanese",
-        "Japanese “no vacancy” button",
-        "満"
-      ]
+      "keyTerms": ["“no vacancy”", "ideograph", "Japanese", "Japanese “no vacancy” button", "満"]
     },
     {
       "emoji": "🔴",
@@ -12707,7 +11461,7 @@ export const emojidata = {
       "keyTerms": ["geometric", "square", "white large square"]
     },
     {
-      "emoji": "◼",
+      "emoji": "◼️",
       "name": "black medium square",
       "category": "Symbols",
       "subcategory": "geometric",
@@ -12715,7 +11469,7 @@ export const emojidata = {
       "keyTerms": ["black medium square", "geometric", "square"]
     },
     {
-      "emoji": "◻",
+      "emoji": "◻️",
       "name": "white medium square",
       "category": "Symbols",
       "subcategory": "geometric",
@@ -12739,7 +11493,7 @@ export const emojidata = {
       "keyTerms": ["geometric", "square", "white medium-small square"]
     },
     {
-      "emoji": "▪",
+      "emoji": "▪️",
       "name": "black small square",
       "category": "Symbols",
       "subcategory": "geometric",
@@ -12747,7 +11501,7 @@ export const emojidata = {
       "keyTerms": ["black small square", "geometric", "square"]
     },
     {
-      "emoji": "▫",
+      "emoji": "▫️",
       "name": "white small square",
       "category": "Symbols",
       "subcategory": "geometric",
@@ -12808,13 +11562,7 @@ export const emojidata = {
       "category": "Symbols",
       "subcategory": "geometric",
       "codepoints": "1F4A0",
-      "keyTerms": [
-        "comic",
-        "diamond",
-        "diamond with a dot",
-        "geometric",
-        "inside"
-      ]
+      "keyTerms": ["comic", "diamond", "diamond with a dot", "geometric", "inside"]
     },
     {
       "emoji": "🔘",
@@ -12830,13 +11578,7 @@ export const emojidata = {
       "category": "Symbols",
       "subcategory": "geometric",
       "codepoints": "1F533",
-      "keyTerms": [
-        "button",
-        "geometric",
-        "outlined",
-        "square",
-        "white square button"
-      ]
+      "keyTerms": ["button", "geometric", "outlined", "square", "white square button"]
     },
     {
       "emoji": "🔲",
@@ -12870,13 +11612,7 @@ export const emojidata = {
       "category": "Flags",
       "subcategory": "flag",
       "codepoints": "1F38C",
-      "keyTerms": [
-        "celebration",
-        "cross",
-        "crossed",
-        "crossed flags",
-        "Japanese"
-      ]
+      "keyTerms": ["celebration", "cross", "crossed", "crossed flags", "Japanese"]
     },
     {
       "emoji": "🏴",
@@ -12908,13 +11644,7 @@ export const emojidata = {
       "category": "Flags",
       "subcategory": "flag",
       "codepoints": "1F3F4 200D 2620 FE0F",
-      "keyTerms": [
-        "Jolly Roger",
-        "pirate",
-        "pirate flag",
-        "plunder",
-        "treasure"
-      ]
+      "keyTerms": ["Jolly Roger", "pirate", "pirate flag", "plunder", "treasure"]
     },
     {
       "emoji": "🇦🇨",
