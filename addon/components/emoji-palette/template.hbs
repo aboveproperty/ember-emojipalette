@@ -1,7 +1,7 @@
 <div class="emojidex-palette-wrapper">
   {{#if searchEnabled}}
     <div class="emojidex-search-container">
-      {{input class="emojidex-searchbox form-control" type="text" value=searchTerm placeholder=searchPlaceholder}}
+      {{input class=(concat "emojidex-searchbox " inputClasses) type="text" value=searchTerm placeholder=searchPlaceholder}}
     </div>
   {{/if}}
   {{emoji-list

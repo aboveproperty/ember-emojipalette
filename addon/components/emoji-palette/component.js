@@ -18,6 +18,8 @@ export default Component.extend({
   closeOnEsc: true,
   closeOnBackdropClick: false,
 
+  inputClasses: '',
+
   onSelect: () => {},
 
   // Event Handlers
